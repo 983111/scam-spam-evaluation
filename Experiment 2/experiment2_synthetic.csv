@@ -1,0 +1,1201 @@
+text,label,group
+Update: The system update will begin tonight. Thank you for your attention.,0,safe_template_28
+Account message: Your ticket booking has been confirmed.,0,safe_template_13
+"Dear customer, Claim your reward by following the instructions now. This message contains an account update.",1,scam_template_05
+"Dear customer, Your membership reward is expiring; claim it now. Please check the relevant details.",1,scam_template_21
+"Hello, Your parcel is delayed; pay a fee to release it. Please review the message.",1,scam_template_02
+Notice: The invoice has been sent to your email address. Please check the relevant details.,0,safe_template_26
+"Dear customer, Your tax refund is ready; provide details to receive it. Please check the relevant details.",1,scam_template_16
+"Hello, Your application status is available on the official portal. Thank you for your attention.",0,safe_template_18
+"Hello, An exclusive investment opportunity guarantees high returns. Please check the relevant details.",1,scam_template_20
+Update: The maintenance work is scheduled for Sunday. Further information is available in your account.,0,safe_template_12
+Account message: Your order has been dispatched successfully. Please review the message.,0,safe_template_11
+Account message: Your parcel is delayed; pay a fee to release it. This message contains an account update.,1,scam_template_02
+Reminder: Your parcel is delayed; pay a fee to release it. Please review the message.,1,scam_template_02
+Update: The maintenance work is scheduled for Sunday.,0,safe_template_12
+Update: You have an unpaid toll; settle it immediately. This message contains an account update.,1,scam_template_12
+Reminder: Your subscription will expire; update payment details. Thank you for your attention.,1,scam_template_08
+Notice: Your card has been locked; verify details to reactivate it. Please check the relevant details.,1,scam_template_26
+"Hello, The delivery agent will contact you on arrival. Please review the message.",0,safe_template_08
+Notice: Your order has been dispatched successfully. Further information is available in your account.,0,safe_template_11
+Notice: Your membership reward is expiring; claim it now. Please review the message.,1,scam_template_21
+Notice: Your account has unusual activity; verify your credentials. Please check the relevant details.,1,scam_template_19
+Account message: Your bank statement is available in the official application. Further information is available in your account.,0,safe_template_00
+"Dear customer, Your subscription renewal is confirmed.",0,safe_template_03
+"Dear customer, Your phone number won a giveaway; claim your gift. This message contains an account update.",1,scam_template_17
+"Dear customer, Claim your reward by following the instructions now.",1,scam_template_05
+Your delivery address is invalid; pay to reschedule. Please check the relevant details.,1,scam_template_13
+Notice: Your subscription renewal is confirmed. Further information is available in your account.,0,safe_template_03
+Your invoice is overdue; use the payment instructions. Further information is available in your account.,1,scam_template_28
+"Dear customer, Your phone number won a giveaway; claim your gift. Further information is available in your account.",1,scam_template_17
+Reminder: Your digital wallet needs verification to release funds.,1,scam_template_29
+Your account has unusual activity; verify your credentials. Please check the relevant details.,1,scam_template_19
+Notice: Your account settings were updated successfully. Please review the message.,0,safe_template_14
+Update: Your payment receipt is available in your account. Thank you for your attention.,0,safe_template_04
+Reminder: Your appointment is confirmed for next week. Please review the message.,0,safe_template_06
+Account message: Your loan has been approved; pay the processing charge. Please review the message.,1,scam_template_18
+Notice: Your digital wallet needs verification to release funds. This message contains an account update.,1,scam_template_29
+Update: Your membership reward is expiring; claim it now.,1,scam_template_21
+Your account will be blocked unless you verify your identity. Thank you for your attention.,1,scam_template_03
+Account message: Your tax refund is ready; provide details to receive it. Further information is available in your account.,1,scam_template_16
+Reminder: The meeting has been moved to the afternoon. This message contains an account update.,0,safe_template_02
+Account message: Your requested service is now active.,0,safe_template_23
+Account message: Claim your reward by following the instructions now. Thank you for your attention.,1,scam_template_05
+"Dear customer, Your registration has been completed.",0,safe_template_25
+Reminder: Your phone number won a giveaway; claim your gift. Please check the relevant details.,1,scam_template_17
+"Dear customer, The team meeting will begin at ten tomorrow. Please check the relevant details.",0,safe_template_17
+Notice: Your phone number won a giveaway; claim your gift. This message contains an account update.,1,scam_template_17
+"Dear customer, Your phone number won a giveaway; claim your gift. Further information is available in your account.",1,scam_template_17
+"Dear customer, You have won a prize; claim it before it expires.",1,scam_template_01
+"Hello, Your parcel is delayed; pay a fee to release it. Thank you for your attention.",1,scam_template_02
+Update: You have an unpaid toll; settle it immediately. Please check the relevant details.,1,scam_template_12
+Your appointment is confirmed for next week. Thank you for your attention.,0,safe_template_06
+Update: The invoice has been sent to your email address. Thank you for your attention.,0,safe_template_26
+Notice: Your loan has been approved; pay the processing charge. This message contains an account update.,1,scam_template_18
+Notice: Your subscription will expire; update payment details. Please review the message.,1,scam_template_08
+Reminder: Your registration has been completed. Please review the message.,0,safe_template_25
+Reminder: Your tax refund is ready; provide details to receive it. This message contains an account update.,1,scam_template_16
+Your monthly statement has been generated. Further information is available in your account.,0,safe_template_19
+Reminder: The system update will begin tonight. Thank you for your attention.,0,safe_template_28
+Update: The package was delivered to the reception desk. Further information is available in your account.,0,safe_template_20
+"Dear customer, Your loan has been approved; pay the processing charge. Further information is available in your account.",1,scam_template_18
+"Hello, A security alert requires immediate account confirmation. Please review the message.",1,scam_template_15
+Reminder: You are eligible for a cash reward; register today. This message contains an account update.,1,scam_template_07
+A refund is waiting; provide information to receive it. This message contains an account update.,1,scam_template_10
+Account message: A suspicious transaction was detected; confirm your details. This message contains an account update.,1,scam_template_04
+Your subscription will expire; update payment details. Thank you for your attention.,1,scam_template_08
+Notice: Your monthly statement has been generated.,0,safe_template_19
+Account message: Your parcel is delayed; pay a fee to release it. Please review the message.,1,scam_template_02
+"Dear customer, Your membership reward is expiring; claim it now. This message contains an account update.",1,scam_template_21
+"Hello, You have been selected for a cash giveaway. Further information is available in your account.",1,scam_template_27
+Reminder: Your account access is at risk; act immediately. This message contains an account update.,1,scam_template_24
+Your membership reward is expiring; claim it now. This message contains an account update.,1,scam_template_21
+Update: Your payment failed; submit your banking information. Please review the message.,1,scam_template_06
+Your support request has been received. Further information is available in your account.,0,safe_template_29
+"Dear customer, Your parcel is delayed; pay a fee to release it. This message contains an account update.",1,scam_template_02
+"Hello, Your account will be blocked unless you verify your identity. Please check the relevant details.",1,scam_template_03
+Your membership reward is expiring; claim it now.,1,scam_template_21
+"Hello, Urgent: confirm your account to avoid service suspension. This message contains an account update.",1,scam_template_09
+"Dear customer, Your parcel is delayed; pay a fee to release it. Further information is available in your account.",1,scam_template_02
+Reminder: The team meeting will begin at ten tomorrow. Thank you for your attention.,0,safe_template_17
+Notice: The maintenance work is scheduled for Sunday. Thank you for your attention.,0,safe_template_12
+Update: The system update will begin tonight. Thank you for your attention.,0,safe_template_28
+"Dear customer, A refund is waiting; provide information to receive it.",1,scam_template_10
+The maintenance work is scheduled for Sunday. Please review the message.,0,safe_template_12
+Account message: Claim your reward by following the instructions now. Please check the relevant details.,1,scam_template_05
+Account message: You have been selected for a cash giveaway. This message contains an account update.,1,scam_template_27
+Reminder: The package was delivered to the reception desk. Please review the message.,0,safe_template_20
+Update: Your requested service is now active. Further information is available in your account.,0,safe_template_23
+Notice: Your subscription will expire; update payment details. Please review the message.,1,scam_template_08
+Notice: Your appointment reminder is for Friday morning.,0,safe_template_21
+Account message: Your bank statement is available in the official application. This message contains an account update.,0,safe_template_00
+"Hello, A package awaits customs clearance; pay the requested fee. Thank you for your attention.",1,scam_template_25
+"Dear customer, You qualify for a grant; submit your personal details. Please review the message.",1,scam_template_23
+Notice: Your account has earned a bonus; withdraw it today. Please review the message.,1,scam_template_14
+Your account has unusual activity; verify your credentials.,1,scam_template_19
+Reminder: The package was delivered to the reception desk. Thank you for your attention.,0,safe_template_20
+"Dear customer, Your subscription renewal is confirmed. Please review the message.",0,safe_template_03
+Update: Your card has been locked; verify details to reactivate it. Please review the message.,1,scam_template_26
+"Hello, The library will close at six this evening. Thank you for your attention.",0,safe_template_15
+Update: Your account has earned a bonus; withdraw it today.,1,scam_template_14
+Account message: Your payment failed; submit your banking information. Further information is available in your account.,1,scam_template_06
+"Dear customer, Your digital wallet needs verification to release funds. Please review the message.",1,scam_template_29
+Notice: You are eligible for a cash reward; register today. Further information is available in your account.,1,scam_template_07
+Your appointment is confirmed for next week. This message contains an account update.,0,safe_template_06
+Update: A suspicious transaction was detected; confirm your details. Further information is available in your account.,1,scam_template_04
+"Hello, Your account settings were updated successfully. Please check the relevant details.",0,safe_template_14
+Notice: Your appointment is confirmed for next week. Further information is available in your account.,0,safe_template_06
+"Hello, Your registration has been completed. Further information is available in your account.",0,safe_template_25
+Notice: The library will close at six this evening. Thank you for your attention.,0,safe_template_15
+Notice: The system update will begin tonight. This message contains an account update.,0,safe_template_28
+Reminder: Your refund has been processed successfully.,0,safe_template_16
+Reminder: Your loan has been approved; pay the processing charge. Thank you for your attention.,1,scam_template_18
+Update: Your account settings were updated successfully. This message contains an account update.,0,safe_template_14
+"Hello, You are eligible for a cash reward; register today. Thank you for your attention.",1,scam_template_07
+"Hello, Your monthly statement has been generated. This message contains an account update.",0,safe_template_19
+Your parcel is scheduled for delivery tomorrow. Further information is available in your account.,0,safe_template_01
+Reminder: Your appointment reminder is for Friday morning. Further information is available in your account.,0,safe_template_21
+Account message: You have an unpaid toll; settle it immediately. Please check the relevant details.,1,scam_template_12
+Account message: You are eligible for a cash reward; register today. This message contains an account update.,1,scam_template_07
+Notice: Your monthly bill is ready to view. Further information is available in your account.,0,safe_template_07
+"Hello, Urgent: confirm your account to avoid service suspension. Please review the message.",1,scam_template_09
+Your card has been locked; verify details to reactivate it. Please check the relevant details.,1,scam_template_26
+"Hello, The library will close at six this evening. Further information is available in your account.",0,safe_template_15
+"Dear customer, The package was delivered to the reception desk. Please review the message.",0,safe_template_20
+"Dear customer, Your requested service is now active. Further information is available in your account.",0,safe_template_23
+Reminder: An exclusive investment opportunity guarantees high returns.,1,scam_template_20
+"Hello, Your support request has been received. Further information is available in your account.",0,safe_template_29
+"Dear customer, Your tax refund is ready; provide details to receive it. Please check the relevant details.",1,scam_template_16
+Reminder: Your payment failed; submit your banking information. Please review the message.,1,scam_template_06
+Your payment receipt is available in your account.,0,safe_template_04
+Notice: Your parcel is scheduled for delivery tomorrow.,0,safe_template_01
+"Dear customer, Your delivery address is invalid; pay to reschedule. This message contains an account update.",1,scam_template_13
+Account message: Your reservation is confirmed for the selected date. This message contains an account update.,0,safe_template_27
+Notice: A security alert requires immediate account confirmation. Thank you for your attention.,1,scam_template_15
+Notice: Your wallet has been restricted; restore access now. Please check the relevant details.,1,scam_template_11
+Notice: The payment was received and recorded. This message contains an account update.,0,safe_template_22
+Your parcel is scheduled for delivery tomorrow.,0,safe_template_01
+The meeting has been moved to the afternoon. Thank you for your attention.,0,safe_template_02
+Update: You qualify for a grant; submit your personal details. Please check the relevant details.,1,scam_template_23
+You qualify for a grant; submit your personal details. Further information is available in your account.,1,scam_template_23
+"Hello, Your refund has been processed successfully. Thank you for your attention.",0,safe_template_16
+Reminder: The timetable is available on the college website. This message contains an account update.,0,safe_template_24
+"Hello, Your parcel is scheduled for delivery tomorrow. This message contains an account update.",0,safe_template_01
+"Dear customer, Your account has unusual activity; verify your credentials. Please review the message.",1,scam_template_19
+Your parcel is scheduled for delivery tomorrow. This message contains an account update.,0,safe_template_01
+Account message: The delivery agent will contact you on arrival. Please review the message.,0,safe_template_08
+Account message: Your card has been locked; verify details to reactivate it. Further information is available in your account.,1,scam_template_26
+Update: The office will remain closed on the public holiday. Please review the message.,0,safe_template_05
+Update: Your subscription renewal is confirmed. This message contains an account update.,0,safe_template_03
+"Dear customer, Your digital wallet needs verification to release funds. Please check the relevant details.",1,scam_template_29
+Account message: Your account access is at risk; act immediately. Thank you for your attention.,1,scam_template_24
+"Dear customer, Your registration has been completed. This message contains an account update.",0,safe_template_25
+"Dear customer, A security alert requires immediate account confirmation. Further information is available in your account.",1,scam_template_15
+Your appointment is confirmed for next week. Further information is available in your account.,0,safe_template_06
+Update: A refund is waiting; provide information to receive it. Please check the relevant details.,1,scam_template_10
+"Hello, Your refund has been processed successfully. This message contains an account update.",0,safe_template_16
+Account message: Your membership reward is expiring; claim it now.,1,scam_template_21
+Account message: Your tax refund is ready; provide details to receive it. Please check the relevant details.,1,scam_template_16
+Update: Your delivery address is invalid; pay to reschedule. Please review the message.,1,scam_template_13
+Your registration has been completed. Please review the message.,0,safe_template_25
+Account message: A security alert requires immediate account confirmation. Further information is available in your account.,1,scam_template_15
+"Dear customer, Your requested service is now active. Further information is available in your account.",0,safe_template_23
+"Hello, Your refund has been processed successfully.",0,safe_template_16
+Account message: Your appointment reminder is for Friday morning. Please check the relevant details.,0,safe_template_21
+Reminder: Your delivery address is invalid; pay to reschedule. Please review the message.,1,scam_template_13
+"Hello, Your account has earned a bonus; withdraw it today.",1,scam_template_14
+"Dear customer, The requested document is available for collection.",0,safe_template_10
+Reminder: A suspicious transaction was detected; confirm your details. Further information is available in your account.,1,scam_template_04
+Account message: Your account settings were updated successfully. Please review the message.,0,safe_template_14
+Notice: The requested document is available for collection. Please check the relevant details.,0,safe_template_10
+Update: You have won a prize; claim it before it expires.,1,scam_template_01
+Reminder: The delivery agent will contact you on arrival. Please review the message.,0,safe_template_08
+Update: The team meeting will begin at ten tomorrow. Please review the message.,0,safe_template_17
+Account message: A security alert requires immediate account confirmation.,1,scam_template_15
+Reminder: Your account has earned a bonus; withdraw it today. This message contains an account update.,1,scam_template_14
+Notice: Urgent: confirm your account to avoid service suspension. Thank you for your attention.,1,scam_template_09
+"Hello, Your invoice is overdue; use the payment instructions. Please review the message.",1,scam_template_28
+Notice: Your subscription will expire; update payment details.,1,scam_template_08
+"Hello, The invoice has been sent to your email address. Please check the relevant details.",0,safe_template_26
+Account message: A suspicious transaction was detected; confirm your details. Please review the message.,1,scam_template_04
+Notice: Your class schedule has been updated. Thank you for your attention.,0,safe_template_09
+Account message: Your appointment is confirmed for next week. Please review the message.,0,safe_template_06
+"Hello, Your order has been dispatched successfully. Please check the relevant details.",0,safe_template_11
+A refund is waiting; provide information to receive it. Please review the message.,1,scam_template_10
+Notice: Your appointment reminder is for Friday morning. Please review the message.,0,safe_template_21
+Notice: Your account has earned a bonus; withdraw it today.,1,scam_template_14
+Account message: Your monthly statement has been generated. Please review the message.,0,safe_template_19
+"Dear customer, Your account access is at risk; act immediately. Please check the relevant details.",1,scam_template_24
+"Dear customer, Your order has been dispatched successfully. This message contains an account update.",0,safe_template_11
+Reminder: Your membership reward is expiring; claim it now. This message contains an account update.,1,scam_template_21
+Notice: A package awaits customs clearance; pay the requested fee. Thank you for your attention.,1,scam_template_25
+Reminder: Your order has been dispatched successfully. Please check the relevant details.,0,safe_template_11
+"Dear customer, Your payment receipt is available in your account. Thank you for your attention.",0,safe_template_04
+"Dear customer, Your bank account requires verification immediately. Further information is available in your account.",1,scam_template_00
+Notice: The maintenance work is scheduled for Sunday. This message contains an account update.,0,safe_template_12
+Notice: You qualify for a grant; submit your personal details.,1,scam_template_23
+"Hello, Urgent: confirm your account to avoid service suspension. Thank you for your attention.",1,scam_template_09
+Notice: Your parcel is delayed; pay a fee to release it. Please review the message.,1,scam_template_02
+Reminder: The library will close at six this evening. Further information is available in your account.,0,safe_template_15
+Update: Your monthly statement has been generated. Please check the relevant details.,0,safe_template_19
+Account message: Your delivery address is invalid; pay to reschedule. Further information is available in your account.,1,scam_template_13
+Account message: The requested document is available for collection. Please check the relevant details.,0,safe_template_10
+The library will close at six this evening. Please review the message.,0,safe_template_15
+The meeting has been moved to the afternoon. Thank you for your attention.,0,safe_template_02
+"Hello, The team meeting will begin at ten tomorrow. This message contains an account update.",0,safe_template_17
+Update: Your account settings were updated successfully. Further information is available in your account.,0,safe_template_14
+Your wallet has been restricted; restore access now. Thank you for your attention.,1,scam_template_11
+"Dear customer, Your class schedule has been updated. This message contains an account update.",0,safe_template_09
+Reminder: The office will remain closed on the public holiday. This message contains an account update.,0,safe_template_05
+Reminder: The office will remain closed on the public holiday.,0,safe_template_05
+Update: Your registration has been completed. Please check the relevant details.,0,safe_template_25
+Notice: Your support request has been received. Further information is available in your account.,0,safe_template_29
+"Hello, Your class schedule has been updated. Please check the relevant details.",0,safe_template_09
+Notice: An exclusive investment opportunity guarantees high returns. Thank you for your attention.,1,scam_template_20
+Your account settings were updated successfully. Thank you for your attention.,0,safe_template_14
+"Hello, Your refund has been processed successfully. This message contains an account update.",0,safe_template_16
+Reminder: Your delivery address is invalid; pay to reschedule. Please review the message.,1,scam_template_13
+"Dear customer, Your parcel is scheduled for delivery tomorrow. This message contains an account update.",0,safe_template_01
+Update: You have an unpaid toll; settle it immediately. Further information is available in your account.,1,scam_template_12
+"Dear customer, Your payment receipt is available in your account. Please review the message.",0,safe_template_04
+You have been selected for a cash giveaway. Please check the relevant details.,1,scam_template_27
+Update: The invoice has been sent to your email address. Further information is available in your account.,0,safe_template_26
+Notice: Your application status is available on the official portal. Please review the message.,0,safe_template_18
+Account message: The package was delivered to the reception desk. Please check the relevant details.,0,safe_template_20
+Account message: Your monthly statement has been generated. Please review the message.,0,safe_template_19
+Account message: Your account has earned a bonus; withdraw it today.,1,scam_template_14
+"Dear customer, A package awaits customs clearance; pay the requested fee. This message contains an account update.",1,scam_template_25
+"Dear customer, The delivery agent will contact you on arrival. Thank you for your attention.",0,safe_template_08
+Update: A suspicious transaction was detected; confirm your details. Thank you for your attention.,1,scam_template_04
+Account message: Your wallet has been restricted; restore access now. Further information is available in your account.,1,scam_template_11
+"Dear customer, Your parcel is scheduled for delivery tomorrow. This message contains an account update.",0,safe_template_01
+"Dear customer, Your tax refund is ready; provide details to receive it.",1,scam_template_16
+Notice: Your payment failed; submit your banking information. Please check the relevant details.,1,scam_template_06
+Reminder: The package was delivered to the reception desk. Please check the relevant details.,0,safe_template_20
+"Hello, The meeting has been moved to the afternoon. Please check the relevant details.",0,safe_template_02
+Notice: Your application status is available on the official portal.,0,safe_template_18
+Update: Your account has unusual activity; verify your credentials. This message contains an account update.,1,scam_template_19
+Your ticket booking has been confirmed. This message contains an account update.,0,safe_template_13
+Notice: You have been selected for a cash giveaway.,1,scam_template_27
+Your support request has been received.,0,safe_template_29
+Account message: Your ticket booking has been confirmed. This message contains an account update.,0,safe_template_13
+"Hello, Your tax refund is ready; provide details to receive it. Thank you for your attention.",1,scam_template_16
+Reminder: An exclusive investment opportunity guarantees high returns.,1,scam_template_20
+Your account will be blocked unless you verify your identity. Thank you for your attention.,1,scam_template_03
+"Dear customer, Your ticket booking has been confirmed. Please review the message.",0,safe_template_13
+"Dear customer, Your payment failed; submit your banking information. This message contains an account update.",1,scam_template_06
+Account message: You have been selected for a cash giveaway.,1,scam_template_27
+Account message: Your subscription renewal is confirmed. This message contains an account update.,0,safe_template_03
+Update: Your refund has been processed successfully. Please review the message.,0,safe_template_16
+"Hello, Your account will be blocked unless you verify your identity. This message contains an account update.",1,scam_template_03
+Reminder: You are eligible for a cash reward; register today. Further information is available in your account.,1,scam_template_07
+Notice: The office will remain closed on the public holiday. Please check the relevant details.,0,safe_template_05
+"Hello, Your loan has been approved; pay the processing charge.",1,scam_template_18
+Account message: Your loan has been approved; pay the processing charge. Please review the message.,1,scam_template_18
+"Hello, Your payment failed; submit your banking information. Please review the message.",1,scam_template_06
+"Hello, Your account settings were updated successfully. Thank you for your attention.",0,safe_template_14
+Update: The payment was received and recorded. This message contains an account update.,0,safe_template_22
+"Dear customer, Your wallet has been restricted; restore access now. Thank you for your attention.",1,scam_template_11
+"Dear customer, A package awaits customs clearance; pay the requested fee. Further information is available in your account.",1,scam_template_25
+Notice: Your delivery address is invalid; pay to reschedule. Thank you for your attention.,1,scam_template_13
+"Hello, The system update will begin tonight. Please review the message.",0,safe_template_28
+"Dear customer, Your account access is at risk; act immediately. Further information is available in your account.",1,scam_template_24
+"Hello, Your phone number won a giveaway; claim your gift. Please check the relevant details.",1,scam_template_17
+"Dear customer, The package was delivered to the reception desk. Further information is available in your account.",0,safe_template_20
+Reminder: Your bank statement is available in the official application. Further information is available in your account.,0,safe_template_00
+"Dear customer, Your subscription renewal is confirmed.",0,safe_template_03
+"Dear customer, The delivery agent will contact you on arrival. Please review the message.",0,safe_template_08
+Notice: You have been selected for a cash giveaway.,1,scam_template_27
+Update: Your invoice is overdue; use the payment instructions. Please check the relevant details.,1,scam_template_28
+Reminder: The library will close at six this evening.,0,safe_template_15
+"Dear customer, You qualify for a grant; submit your personal details. This message contains an account update.",1,scam_template_23
+Reminder: Your digital wallet needs verification to release funds.,1,scam_template_29
+"Hello, The delivery agent will contact you on arrival.",0,safe_template_08
+Your parcel is scheduled for delivery tomorrow. Please review the message.,0,safe_template_01
+Account message: Your order has been dispatched successfully.,0,safe_template_11
+Your account has earned a bonus; withdraw it today. Please review the message.,1,scam_template_14
+"Dear customer, You have won a prize; claim it before it expires. This message contains an account update.",1,scam_template_01
+You have won a prize; claim it before it expires. This message contains an account update.,1,scam_template_01
+"Dear customer, You have an unpaid toll; settle it immediately. Thank you for your attention.",1,scam_template_12
+Notice: Your membership reward is expiring; claim it now. Please review the message.,1,scam_template_21
+Notice: Your payment failed; submit your banking information.,1,scam_template_06
+Update: Your registration has been completed. Please review the message.,0,safe_template_25
+"Dear customer, Your ticket booking has been confirmed. Please review the message.",0,safe_template_13
+"Hello, Your bank account requires verification immediately. This message contains an account update.",1,scam_template_00
+"Dear customer, Your order has been dispatched successfully. Further information is available in your account.",0,safe_template_11
+Reminder: Your bank statement is available in the official application.,0,safe_template_00
+Account message: Your appointment reminder is for Friday morning.,0,safe_template_21
+Update: The meeting has been moved to the afternoon.,0,safe_template_02
+Update: The maintenance work is scheduled for Sunday. Further information is available in your account.,0,safe_template_12
+Your class schedule has been updated. Please check the relevant details.,0,safe_template_09
+Notice: Your requested service is now active.,0,safe_template_23
+Account message: Your payment is on hold; confirm your identity. This message contains an account update.,1,scam_template_22
+Update: The system update will begin tonight. Further information is available in your account.,0,safe_template_28
+"Dear customer, Your membership reward is expiring; claim it now. Thank you for your attention.",1,scam_template_21
+"Dear customer, The system update will begin tonight. This message contains an account update.",0,safe_template_28
+Update: Claim your reward by following the instructions now.,1,scam_template_05
+Notice: The delivery agent will contact you on arrival. Please check the relevant details.,0,safe_template_08
+Notice: Your account access is at risk; act immediately. This message contains an account update.,1,scam_template_24
+Account message: Your appointment reminder is for Friday morning. Further information is available in your account.,0,safe_template_21
+Reminder: The requested document is available for collection. This message contains an account update.,0,safe_template_10
+Update: Your reservation is confirmed for the selected date. This message contains an account update.,0,safe_template_27
+Account message: The maintenance work is scheduled for Sunday.,0,safe_template_12
+Reminder: Your monthly statement has been generated. Further information is available in your account.,0,safe_template_19
+Reminder: Your wallet has been restricted; restore access now. Please check the relevant details.,1,scam_template_11
+Notice: Your support request has been received.,0,safe_template_29
+"Hello, Your subscription renewal is confirmed. Please check the relevant details.",0,safe_template_03
+Reminder: The maintenance work is scheduled for Sunday. Further information is available in your account.,0,safe_template_12
+"Dear customer, Your refund has been processed successfully. Please review the message.",0,safe_template_16
+"Hello, Your account will be blocked unless you verify your identity. Please check the relevant details.",1,scam_template_03
+Account message: Your account will be blocked unless you verify your identity. Thank you for your attention.,1,scam_template_03
+"Hello, The requested document is available for collection.",0,safe_template_10
+Account message: A refund is waiting; provide information to receive it. Please check the relevant details.,1,scam_template_10
+Account message: Your bank account requires verification immediately. Please check the relevant details.,1,scam_template_00
+Reminder: Your account access is at risk; act immediately. Thank you for your attention.,1,scam_template_24
+"Hello, The system update will begin tonight. Please review the message.",0,safe_template_28
+Reminder: Your account has earned a bonus; withdraw it today. Please check the relevant details.,1,scam_template_14
+"Hello, An exclusive investment opportunity guarantees high returns. Please check the relevant details.",1,scam_template_20
+Account message: Your monthly bill is ready to view. Thank you for your attention.,0,safe_template_07
+Account message: Your requested service is now active.,0,safe_template_23
+Update: Your payment receipt is available in your account. Please check the relevant details.,0,safe_template_04
+Notice: Your reservation is confirmed for the selected date. Please review the message.,0,safe_template_27
+Your appointment is confirmed for next week.,0,safe_template_06
+"Dear customer, The package was delivered to the reception desk. Thank you for your attention.",0,safe_template_20
+"Hello, Your card has been locked; verify details to reactivate it.",1,scam_template_26
+Account message: Your digital wallet needs verification to release funds. Please check the relevant details.,1,scam_template_29
+"Dear customer, Your registration has been completed.",0,safe_template_25
+Account message: Your invoice is overdue; use the payment instructions. This message contains an account update.,1,scam_template_28
+Account message: Your appointment is confirmed for next week. Thank you for your attention.,0,safe_template_06
+"Dear customer, Your delivery address is invalid; pay to reschedule. Please check the relevant details.",1,scam_template_13
+Account message: Your application status is available on the official portal.,0,safe_template_18
+Reminder: Your wallet has been restricted; restore access now. This message contains an account update.,1,scam_template_11
+"Hello, An exclusive investment opportunity guarantees high returns.",1,scam_template_20
+"Dear customer, Your bank account requires verification immediately.",1,scam_template_00
+Account message: Your bank account requires verification immediately. This message contains an account update.,1,scam_template_00
+Notice: A security alert requires immediate account confirmation. Further information is available in your account.,1,scam_template_15
+Reminder: The timetable is available on the college website. Thank you for your attention.,0,safe_template_24
+Notice: Your payment is on hold; confirm your identity.,1,scam_template_22
+Your appointment is confirmed for next week. Further information is available in your account.,0,safe_template_06
+"Hello, A refund is waiting; provide information to receive it. This message contains an account update.",1,scam_template_10
+"Hello, The timetable is available on the college website. This message contains an account update.",0,safe_template_24
+"Dear customer, You have won a prize; claim it before it expires. Please review the message.",1,scam_template_01
+Notice: Your reservation is confirmed for the selected date. Please review the message.,0,safe_template_27
+Account message: Your loan has been approved; pay the processing charge. Please review the message.,1,scam_template_18
+"Hello, Your order has been dispatched successfully. Thank you for your attention.",0,safe_template_11
+Update: Your class schedule has been updated. Thank you for your attention.,0,safe_template_09
+Notice: Your parcel is scheduled for delivery tomorrow. Please check the relevant details.,0,safe_template_01
+Update: Your payment is on hold; confirm your identity. Thank you for your attention.,1,scam_template_22
+"Dear customer, Your appointment is confirmed for next week. Further information is available in your account.",0,safe_template_06
+Reminder: Your card has been locked; verify details to reactivate it. Thank you for your attention.,1,scam_template_26
+Account message: The payment was received and recorded. Thank you for your attention.,0,safe_template_22
+Your account has unusual activity; verify your credentials. Further information is available in your account.,1,scam_template_19
+Account message: You have an unpaid toll; settle it immediately. This message contains an account update.,1,scam_template_12
+"Hello, Your account has earned a bonus; withdraw it today. Please review the message.",1,scam_template_14
+Account message: You have won a prize; claim it before it expires. Thank you for your attention.,1,scam_template_01
+Reminder: Your tax refund is ready; provide details to receive it. Please review the message.,1,scam_template_16
+Your digital wallet needs verification to release funds.,1,scam_template_29
+Your parcel is delayed; pay a fee to release it. Thank you for your attention.,1,scam_template_02
+Notice: A security alert requires immediate account confirmation. Thank you for your attention.,1,scam_template_15
+Account message: Claim your reward by following the instructions now. Further information is available in your account.,1,scam_template_05
+Reminder: Your class schedule has been updated. This message contains an account update.,0,safe_template_09
+Notice: Your parcel is delayed; pay a fee to release it. This message contains an account update.,1,scam_template_02
+Reminder: Your card has been locked; verify details to reactivate it. Please review the message.,1,scam_template_26
+A refund is waiting; provide information to receive it. This message contains an account update.,1,scam_template_10
+"Hello, Your payment failed; submit your banking information. Please check the relevant details.",1,scam_template_06
+Update: The library will close at six this evening. Please review the message.,0,safe_template_15
+"Dear customer, Your requested service is now active. This message contains an account update.",0,safe_template_23
+Reminder: Your registration has been completed. This message contains an account update.,0,safe_template_25
+Your account will be blocked unless you verify your identity.,1,scam_template_03
+"Hello, The team meeting will begin at ten tomorrow.",0,safe_template_17
+"Hello, Your monthly bill is ready to view. Thank you for your attention.",0,safe_template_07
+"Dear customer, The office will remain closed on the public holiday. Thank you for your attention.",0,safe_template_05
+Notice: You have been selected for a cash giveaway. Further information is available in your account.,1,scam_template_27
+Update: The timetable is available on the college website.,0,safe_template_24
+The payment was received and recorded. Thank you for your attention.,0,safe_template_22
+Update: You have been selected for a cash giveaway. Thank you for your attention.,1,scam_template_27
+Notice: Your invoice is overdue; use the payment instructions. Thank you for your attention.,1,scam_template_28
+Account message: Your membership reward is expiring; claim it now. Please check the relevant details.,1,scam_template_21
+Reminder: The package was delivered to the reception desk.,0,safe_template_20
+"Dear customer, Your tax refund is ready; provide details to receive it. Please check the relevant details.",1,scam_template_16
+Update: Your refund has been processed successfully. Please check the relevant details.,0,safe_template_16
+"Dear customer, A security alert requires immediate account confirmation. Further information is available in your account.",1,scam_template_15
+Notice: The requested document is available for collection. Please check the relevant details.,0,safe_template_10
+Account message: The system update will begin tonight. This message contains an account update.,0,safe_template_28
+"Dear customer, Your card has been locked; verify details to reactivate it. This message contains an account update.",1,scam_template_26
+Notice: Your order has been dispatched successfully. This message contains an account update.,0,safe_template_11
+Notice: The office will remain closed on the public holiday. This message contains an account update.,0,safe_template_05
+"Hello, The library will close at six this evening. Further information is available in your account.",0,safe_template_15
+"Dear customer, Your account will be blocked unless you verify your identity. This message contains an account update.",1,scam_template_03
+"Hello, Your appointment is confirmed for next week. Please review the message.",0,safe_template_06
+"Dear customer, A suspicious transaction was detected; confirm your details. Further information is available in your account.",1,scam_template_04
+Reminder: The maintenance work is scheduled for Sunday.,0,safe_template_12
+"Hello, Your bank statement is available in the official application. Please review the message.",0,safe_template_00
+Notice: Your phone number won a giveaway; claim your gift. Thank you for your attention.,1,scam_template_17
+Account message: Your refund has been processed successfully. Further information is available in your account.,0,safe_template_16
+"Dear customer, Your account has earned a bonus; withdraw it today. Please review the message.",1,scam_template_14
+Update: Your membership reward is expiring; claim it now. Please check the relevant details.,1,scam_template_21
+Update: Your registration has been completed.,0,safe_template_25
+Notice: Your phone number won a giveaway; claim your gift. Please check the relevant details.,1,scam_template_17
+"Hello, Your membership reward is expiring; claim it now. Please review the message.",1,scam_template_21
+Update: Your subscription renewal is confirmed. Please review the message.,0,safe_template_03
+"Dear customer, Your card has been locked; verify details to reactivate it.",1,scam_template_26
+Account message: You qualify for a grant; submit your personal details. Please check the relevant details.,1,scam_template_23
+"Dear customer, The timetable is available on the college website. Please check the relevant details.",0,safe_template_24
+"Hello, Urgent: confirm your account to avoid service suspension. Please check the relevant details.",1,scam_template_09
+Reminder: The timetable is available on the college website. Please check the relevant details.,0,safe_template_24
+Account message: Your membership reward is expiring; claim it now. This message contains an account update.,1,scam_template_21
+"Hello, Claim your reward by following the instructions now. Further information is available in your account.",1,scam_template_05
+Account message: Your loan has been approved; pay the processing charge. This message contains an account update.,1,scam_template_18
+Reminder: Your wallet has been restricted; restore access now. Please review the message.,1,scam_template_11
+Reminder: The office will remain closed on the public holiday. Further information is available in your account.,0,safe_template_05
+"Dear customer, Your parcel is scheduled for delivery tomorrow. This message contains an account update.",0,safe_template_01
+"Hello, Your digital wallet needs verification to release funds. Please check the relevant details.",1,scam_template_29
+Update: Your account access is at risk; act immediately. Further information is available in your account.,1,scam_template_24
+Account message: The office will remain closed on the public holiday. Thank you for your attention.,0,safe_template_05
+Notice: Your delivery address is invalid; pay to reschedule. This message contains an account update.,1,scam_template_13
+You qualify for a grant; submit your personal details. Further information is available in your account.,1,scam_template_23
+"Dear customer, The meeting has been moved to the afternoon. Please review the message.",0,safe_template_02
+"Dear customer, Your tax refund is ready; provide details to receive it.",1,scam_template_16
+Reminder: Your subscription renewal is confirmed. Thank you for your attention.,0,safe_template_03
+You have been selected for a cash giveaway. Please review the message.,1,scam_template_27
+"Dear customer, Your payment is on hold; confirm your identity. This message contains an account update.",1,scam_template_22
+"Dear customer, Urgent: confirm your account to avoid service suspension. Thank you for your attention.",1,scam_template_09
+Update: Your payment failed; submit your banking information. Further information is available in your account.,1,scam_template_06
+"Hello, The system update will begin tonight. Please review the message.",0,safe_template_28
+Notice: The office will remain closed on the public holiday. This message contains an account update.,0,safe_template_05
+Account message: Your digital wallet needs verification to release funds. Please check the relevant details.,1,scam_template_29
+A suspicious transaction was detected; confirm your details. Please check the relevant details.,1,scam_template_04
+Notice: The delivery agent will contact you on arrival. Please review the message.,0,safe_template_08
+"Hello, Your ticket booking has been confirmed. Thank you for your attention.",0,safe_template_13
+Notice: The delivery agent will contact you on arrival. Please review the message.,0,safe_template_08
+Account message: You have won a prize; claim it before it expires. This message contains an account update.,1,scam_template_01
+You have been selected for a cash giveaway. Please check the relevant details.,1,scam_template_27
+"Dear customer, Your subscription will expire; update payment details. Further information is available in your account.",1,scam_template_08
+"Hello, You have an unpaid toll; settle it immediately. Further information is available in your account.",1,scam_template_12
+Reminder: A security alert requires immediate account confirmation. Please check the relevant details.,1,scam_template_15
+Account message: Your payment is on hold; confirm your identity. Please check the relevant details.,1,scam_template_22
+Your phone number won a giveaway; claim your gift.,1,scam_template_17
+Your tax refund is ready; provide details to receive it. Please review the message.,1,scam_template_16
+Your account has earned a bonus; withdraw it today. Further information is available in your account.,1,scam_template_14
+Account message: The team meeting will begin at ten tomorrow. Further information is available in your account.,0,safe_template_17
+A suspicious transaction was detected; confirm your details. Please review the message.,1,scam_template_04
+"Dear customer, You qualify for a grant; submit your personal details.",1,scam_template_23
+Update: Your appointment reminder is for Friday morning. Further information is available in your account.,0,safe_template_21
+Account message: The library will close at six this evening.,0,safe_template_15
+Update: Your monthly bill is ready to view. Thank you for your attention.,0,safe_template_07
+"Hello, The team meeting will begin at ten tomorrow. Further information is available in your account.",0,safe_template_17
+"Hello, Your bank statement is available in the official application.",0,safe_template_00
+Account message: The requested document is available for collection. Thank you for your attention.,0,safe_template_10
+Notice: Your monthly bill is ready to view.,0,safe_template_07
+Your payment receipt is available in your account. This message contains an account update.,0,safe_template_04
+"Dear customer, Your account will be blocked unless you verify your identity. Please check the relevant details.",1,scam_template_03
+Account message: Your class schedule has been updated. Please review the message.,0,safe_template_09
+Notice: Your monthly bill is ready to view. Please review the message.,0,safe_template_07
+Reminder: Your invoice is overdue; use the payment instructions. Please review the message.,1,scam_template_28
+Update: The timetable is available on the college website.,0,safe_template_24
+Update: The timetable is available on the college website.,0,safe_template_24
+Account message: A security alert requires immediate account confirmation. Please check the relevant details.,1,scam_template_15
+Notice: You have an unpaid toll; settle it immediately. Thank you for your attention.,1,scam_template_12
+Notice: The team meeting will begin at ten tomorrow. Further information is available in your account.,0,safe_template_17
+"Dear customer, Your appointment reminder is for Friday morning. Please check the relevant details.",0,safe_template_21
+Reminder: A security alert requires immediate account confirmation. Thank you for your attention.,1,scam_template_15
+Update: Your card has been locked; verify details to reactivate it. Thank you for your attention.,1,scam_template_26
+"Hello, Your wallet has been restricted; restore access now. Further information is available in your account.",1,scam_template_11
+Update: Your account has unusual activity; verify your credentials. Please review the message.,1,scam_template_19
+Account message: Your wallet has been restricted; restore access now. This message contains an account update.,1,scam_template_11
+"Hello, The requested document is available for collection.",0,safe_template_10
+Your account access is at risk; act immediately. Please check the relevant details.,1,scam_template_24
+Notice: The office will remain closed on the public holiday. This message contains an account update.,0,safe_template_05
+Account message: A security alert requires immediate account confirmation. Further information is available in your account.,1,scam_template_15
+Your registration has been completed. Please review the message.,0,safe_template_25
+Reminder: The timetable is available on the college website. Further information is available in your account.,0,safe_template_24
+"Hello, The delivery agent will contact you on arrival. Please check the relevant details.",0,safe_template_08
+Reminder: The library will close at six this evening. Please review the message.,0,safe_template_15
+Notice: The invoice has been sent to your email address. Please review the message.,0,safe_template_26
+You have an unpaid toll; settle it immediately. Further information is available in your account.,1,scam_template_12
+"Dear customer, Your monthly bill is ready to view. Further information is available in your account.",0,safe_template_07
+"Dear customer, Your digital wallet needs verification to release funds. Please review the message.",1,scam_template_29
+Notice: Your account will be blocked unless you verify your identity. Further information is available in your account.,1,scam_template_03
+Notice: A suspicious transaction was detected; confirm your details. Thank you for your attention.,1,scam_template_04
+"Dear customer, You have been selected for a cash giveaway. Further information is available in your account.",1,scam_template_27
+You have won a prize; claim it before it expires. Further information is available in your account.,1,scam_template_01
+Reminder: Your ticket booking has been confirmed. This message contains an account update.,0,safe_template_13
+"Hello, Your invoice is overdue; use the payment instructions.",1,scam_template_28
+"Dear customer, Your payment is on hold; confirm your identity. Please review the message.",1,scam_template_22
+"Hello, Your payment is on hold; confirm your identity. This message contains an account update.",1,scam_template_22
+"Dear customer, You have an unpaid toll; settle it immediately. Please check the relevant details.",1,scam_template_12
+A refund is waiting; provide information to receive it. Please review the message.,1,scam_template_10
+Update: Your invoice is overdue; use the payment instructions. Further information is available in your account.,1,scam_template_28
+Update: Your order has been dispatched successfully. Please check the relevant details.,0,safe_template_11
+Reminder: Your digital wallet needs verification to release funds. Please check the relevant details.,1,scam_template_29
+Account message: Your loan has been approved; pay the processing charge. Further information is available in your account.,1,scam_template_18
+The requested document is available for collection. Please review the message.,0,safe_template_10
+"Dear customer, Your account will be blocked unless you verify your identity. Please check the relevant details.",1,scam_template_03
+Update: A suspicious transaction was detected; confirm your details. Please review the message.,1,scam_template_04
+Reminder: Your card has been locked; verify details to reactivate it. Please review the message.,1,scam_template_26
+Update: A suspicious transaction was detected; confirm your details. This message contains an account update.,1,scam_template_04
+Reminder: Your payment is on hold; confirm your identity. Further information is available in your account.,1,scam_template_22
+Notice: The invoice has been sent to your email address. Further information is available in your account.,0,safe_template_26
+Notice: Your bank statement is available in the official application. Thank you for your attention.,0,safe_template_00
+"Hello, Your support request has been received. This message contains an account update.",0,safe_template_29
+Update: Your requested service is now active. Thank you for your attention.,0,safe_template_23
+"Dear customer, Your appointment is confirmed for next week. Thank you for your attention.",0,safe_template_06
+"Hello, Your membership reward is expiring; claim it now. Please review the message.",1,scam_template_21
+You have been selected for a cash giveaway. Please review the message.,1,scam_template_27
+Account message: Your requested service is now active. Further information is available in your account.,0,safe_template_23
+Reminder: Your requested service is now active. Please check the relevant details.,0,safe_template_23
+"Dear customer, Your phone number won a giveaway; claim your gift. Please check the relevant details.",1,scam_template_17
+Update: Urgent: confirm your account to avoid service suspension. Please check the relevant details.,1,scam_template_09
+Update: You qualify for a grant; submit your personal details. Please check the relevant details.,1,scam_template_23
+Update: Your digital wallet needs verification to release funds. Thank you for your attention.,1,scam_template_29
+"Dear customer, Your bank account requires verification immediately.",1,scam_template_00
+"Dear customer, A security alert requires immediate account confirmation. Further information is available in your account.",1,scam_template_15
+"Dear customer, Your subscription renewal is confirmed.",0,safe_template_03
+Update: An exclusive investment opportunity guarantees high returns.,1,scam_template_20
+"Dear customer, Your support request has been received. Thank you for your attention.",0,safe_template_29
+Account message: The payment was received and recorded. Please check the relevant details.,0,safe_template_22
+Account message: The payment was received and recorded. Thank you for your attention.,0,safe_template_22
+Notice: Claim your reward by following the instructions now. This message contains an account update.,1,scam_template_05
+Account message: Your card has been locked; verify details to reactivate it. Please check the relevant details.,1,scam_template_26
+Reminder: Your bank statement is available in the official application. This message contains an account update.,0,safe_template_00
+Account message: Your account will be blocked unless you verify your identity. Please check the relevant details.,1,scam_template_03
+"Dear customer, Your account has earned a bonus; withdraw it today. Thank you for your attention.",1,scam_template_14
+Notice: The payment was received and recorded. This message contains an account update.,0,safe_template_22
+Account message: Your wallet has been restricted; restore access now. Please review the message.,1,scam_template_11
+Update: Your wallet has been restricted; restore access now.,1,scam_template_11
+Account message: You are eligible for a cash reward; register today. Thank you for your attention.,1,scam_template_07
+Notice: Your registration has been completed. Thank you for your attention.,0,safe_template_25
+"Dear customer, Your loan has been approved; pay the processing charge. Thank you for your attention.",1,scam_template_18
+Reminder: Claim your reward by following the instructions now. Further information is available in your account.,1,scam_template_05
+"Hello, The requested document is available for collection.",0,safe_template_10
+"Hello, You have an unpaid toll; settle it immediately. Please check the relevant details.",1,scam_template_12
+"Dear customer, Your reservation is confirmed for the selected date. Please review the message.",0,safe_template_27
+Account message: Your bank account requires verification immediately. Further information is available in your account.,1,scam_template_00
+"Hello, Your payment is on hold; confirm your identity. Please check the relevant details.",1,scam_template_22
+Your ticket booking has been confirmed. Further information is available in your account.,0,safe_template_13
+Notice: Your account has unusual activity; verify your credentials.,1,scam_template_19
+"Hello, Your application status is available on the official portal. Further information is available in your account.",0,safe_template_18
+You qualify for a grant; submit your personal details. Please check the relevant details.,1,scam_template_23
+Notice: Your reservation is confirmed for the selected date. This message contains an account update.,0,safe_template_27
+"Dear customer, You are eligible for a cash reward; register today. Further information is available in your account.",1,scam_template_07
+"Dear customer, A package awaits customs clearance; pay the requested fee.",1,scam_template_25
+"Hello, Your registration has been completed. Further information is available in your account.",0,safe_template_25
+Update: Your card has been locked; verify details to reactivate it.,1,scam_template_26
+Your subscription will expire; update payment details.,1,scam_template_08
+"Hello, Your reservation is confirmed for the selected date. Further information is available in your account.",0,safe_template_27
+The payment was received and recorded. This message contains an account update.,0,safe_template_22
+"Hello, Your digital wallet needs verification to release funds. Further information is available in your account.",1,scam_template_29
+Your support request has been received.,0,safe_template_29
+Account message: Your bank account requires verification immediately. This message contains an account update.,1,scam_template_00
+"Dear customer, Your invoice is overdue; use the payment instructions. This message contains an account update.",1,scam_template_28
+Update: The maintenance work is scheduled for Sunday. Please check the relevant details.,0,safe_template_12
+Your phone number won a giveaway; claim your gift. This message contains an account update.,1,scam_template_17
+"Hello, Your tax refund is ready; provide details to receive it. Thank you for your attention.",1,scam_template_16
+"Hello, The office will remain closed on the public holiday. Thank you for your attention.",0,safe_template_05
+Account message: Your order has been dispatched successfully. Thank you for your attention.,0,safe_template_11
+You have an unpaid toll; settle it immediately. Please review the message.,1,scam_template_12
+"Hello, Your account settings were updated successfully. Further information is available in your account.",0,safe_template_14
+Account message: Your order has been dispatched successfully. This message contains an account update.,0,safe_template_11
+Reminder: Your support request has been received.,0,safe_template_29
+"Hello, The library will close at six this evening.",0,safe_template_15
+"Dear customer, Your card has been locked; verify details to reactivate it. Further information is available in your account.",1,scam_template_26
+Reminder: The requested document is available for collection. Please check the relevant details.,0,safe_template_10
+"Hello, Your appointment is confirmed for next week. Please review the message.",0,safe_template_06
+Notice: Your appointment reminder is for Friday morning. This message contains an account update.,0,safe_template_21
+Account message: Your reservation is confirmed for the selected date. Further information is available in your account.,0,safe_template_27
+"Hello, Your payment is on hold; confirm your identity.",1,scam_template_22
+Notice: Your card has been locked; verify details to reactivate it. This message contains an account update.,1,scam_template_26
+"Dear customer, The team meeting will begin at ten tomorrow. Please check the relevant details.",0,safe_template_17
+Notice: Your wallet has been restricted; restore access now. Please check the relevant details.,1,scam_template_11
+Account message: The payment was received and recorded. Please review the message.,0,safe_template_22
+Update: A refund is waiting; provide information to receive it. Thank you for your attention.,1,scam_template_10
+"Dear customer, Your account will be blocked unless you verify your identity. This message contains an account update.",1,scam_template_03
+Account message: You are eligible for a cash reward; register today. Further information is available in your account.,1,scam_template_07
+Reminder: Your digital wallet needs verification to release funds. Further information is available in your account.,1,scam_template_29
+Reminder: The office will remain closed on the public holiday. This message contains an account update.,0,safe_template_05
+Notice: Your digital wallet needs verification to release funds. Please review the message.,1,scam_template_29
+"Dear customer, Your payment failed; submit your banking information. Further information is available in your account.",1,scam_template_06
+Notice: Your class schedule has been updated.,0,safe_template_09
+"Hello, An exclusive investment opportunity guarantees high returns. Please review the message.",1,scam_template_20
+Your application status is available on the official portal. Thank you for your attention.,0,safe_template_18
+"Dear customer, A package awaits customs clearance; pay the requested fee.",1,scam_template_25
+Reminder: Your ticket booking has been confirmed. Further information is available in your account.,0,safe_template_13
+Account message: A package awaits customs clearance; pay the requested fee. Please check the relevant details.,1,scam_template_25
+Update: The office will remain closed on the public holiday. Please check the relevant details.,0,safe_template_05
+"Hello, Your phone number won a giveaway; claim your gift. Thank you for your attention.",1,scam_template_17
+"Hello, Your account has unusual activity; verify your credentials. This message contains an account update.",1,scam_template_19
+"Hello, Your bank account requires verification immediately. This message contains an account update.",1,scam_template_00
+"Hello, Your loan has been approved; pay the processing charge.",1,scam_template_18
+Reminder: The invoice has been sent to your email address. This message contains an account update.,0,safe_template_26
+"Hello, You qualify for a grant; submit your personal details. Thank you for your attention.",1,scam_template_23
+"Dear customer, The delivery agent will contact you on arrival. Please review the message.",0,safe_template_08
+Your monthly bill is ready to view. Further information is available in your account.,0,safe_template_07
+Your subscription will expire; update payment details. Thank you for your attention.,1,scam_template_08
+"Hello, Your payment is on hold; confirm your identity. Please review the message.",1,scam_template_22
+Notice: Your payment failed; submit your banking information. Further information is available in your account.,1,scam_template_06
+Account message: Your refund has been processed successfully. Thank you for your attention.,0,safe_template_16
+Account message: Your card has been locked; verify details to reactivate it. This message contains an account update.,1,scam_template_26
+A suspicious transaction was detected; confirm your details. Please review the message.,1,scam_template_04
+Update: The system update will begin tonight. Please check the relevant details.,0,safe_template_28
+Notice: Urgent: confirm your account to avoid service suspension.,1,scam_template_09
+Update: Your appointment reminder is for Friday morning.,0,safe_template_21
+Notice: Your monthly statement has been generated. Thank you for your attention.,0,safe_template_19
+You have an unpaid toll; settle it immediately.,1,scam_template_12
+Update: Your account will be blocked unless you verify your identity. Further information is available in your account.,1,scam_template_03
+Update: Your payment failed; submit your banking information.,1,scam_template_06
+Reminder: A security alert requires immediate account confirmation. This message contains an account update.,1,scam_template_15
+"Hello, The invoice has been sent to your email address. Please review the message.",0,safe_template_26
+Notice: Your tax refund is ready; provide details to receive it. This message contains an account update.,1,scam_template_16
+The package was delivered to the reception desk. Further information is available in your account.,0,safe_template_20
+Your account access is at risk; act immediately. Please check the relevant details.,1,scam_template_24
+"Dear customer, Your subscription renewal is confirmed. This message contains an account update.",0,safe_template_03
+The library will close at six this evening. Thank you for your attention.,0,safe_template_15
+Update: Your account access is at risk; act immediately. Please check the relevant details.,1,scam_template_24
+Reminder: Your tax refund is ready; provide details to receive it. Please review the message.,1,scam_template_16
+Update: Your application status is available on the official portal. Please review the message.,0,safe_template_18
+"Hello, Your subscription will expire; update payment details. Please check the relevant details.",1,scam_template_08
+"Dear customer, You have won a prize; claim it before it expires. Please review the message.",1,scam_template_01
+Account message: A package awaits customs clearance; pay the requested fee. Thank you for your attention.,1,scam_template_25
+"Hello, Urgent: confirm your account to avoid service suspension. This message contains an account update.",1,scam_template_09
+"Hello, Your registration has been completed.",0,safe_template_25
+Notice: Your subscription will expire; update payment details.,1,scam_template_08
+The payment was received and recorded. Please check the relevant details.,0,safe_template_22
+Your subscription will expire; update payment details.,1,scam_template_08
+A package awaits customs clearance; pay the requested fee. Please review the message.,1,scam_template_25
+Update: Your application status is available on the official portal. Please check the relevant details.,0,safe_template_18
+Update: The office will remain closed on the public holiday. Thank you for your attention.,0,safe_template_05
+"Dear customer, Your account access is at risk; act immediately. Please check the relevant details.",1,scam_template_24
+"Hello, Your account will be blocked unless you verify your identity. Thank you for your attention.",1,scam_template_03
+Account message: Your monthly statement has been generated.,0,safe_template_19
+"Hello, Your digital wallet needs verification to release funds. Further information is available in your account.",1,scam_template_29
+Notice: Your wallet has been restricted; restore access now.,1,scam_template_11
+"Hello, A refund is waiting; provide information to receive it. This message contains an account update.",1,scam_template_10
+The team meeting will begin at ten tomorrow. This message contains an account update.,0,safe_template_17
+Your payment failed; submit your banking information. Please check the relevant details.,1,scam_template_06
+Notice: Your reservation is confirmed for the selected date. Please review the message.,0,safe_template_27
+Account message: Your appointment is confirmed for next week. Please review the message.,0,safe_template_06
+Update: The team meeting will begin at ten tomorrow. Thank you for your attention.,0,safe_template_17
+Update: Urgent: confirm your account to avoid service suspension. Please check the relevant details.,1,scam_template_09
+Notice: Your parcel is delayed; pay a fee to release it. This message contains an account update.,1,scam_template_02
+"Hello, Claim your reward by following the instructions now. Please review the message.",1,scam_template_05
+"Dear customer, The maintenance work is scheduled for Sunday. Please review the message.",0,safe_template_12
+Account message: Your invoice is overdue; use the payment instructions. Further information is available in your account.,1,scam_template_28
+Account message: The meeting has been moved to the afternoon. Further information is available in your account.,0,safe_template_02
+The package was delivered to the reception desk. Please review the message.,0,safe_template_20
+"Hello, The system update will begin tonight.",0,safe_template_28
+Reminder: Your account access is at risk; act immediately. Thank you for your attention.,1,scam_template_24
+Notice: You qualify for a grant; submit your personal details. Please review the message.,1,scam_template_23
+Reminder: You have won a prize; claim it before it expires. This message contains an account update.,1,scam_template_01
+"Hello, Your subscription renewal is confirmed. Thank you for your attention.",0,safe_template_03
+"Hello, Your subscription renewal is confirmed. Further information is available in your account.",0,safe_template_03
+Reminder: Your monthly bill is ready to view. Thank you for your attention.,0,safe_template_07
+Account message: Your monthly statement has been generated. Thank you for your attention.,0,safe_template_19
+Your loan has been approved; pay the processing charge. This message contains an account update.,1,scam_template_18
+Your order has been dispatched successfully. Please check the relevant details.,0,safe_template_11
+The payment was received and recorded. Thank you for your attention.,0,safe_template_22
+Reminder: Your account has unusual activity; verify your credentials. Further information is available in your account.,1,scam_template_19
+Update: Your payment is on hold; confirm your identity. Please review the message.,1,scam_template_22
+Your delivery address is invalid; pay to reschedule.,1,scam_template_13
+The delivery agent will contact you on arrival. This message contains an account update.,0,safe_template_08
+Reminder: Your application status is available on the official portal. Thank you for your attention.,0,safe_template_18
+"Hello, Your payment is on hold; confirm your identity. Thank you for your attention.",1,scam_template_22
+"Hello, Your account has unusual activity; verify your credentials. Further information is available in your account.",1,scam_template_19
+Update: Your monthly bill is ready to view. Please review the message.,0,safe_template_07
+Update: Your subscription will expire; update payment details. Further information is available in your account.,1,scam_template_08
+Your bank account requires verification immediately. This message contains an account update.,1,scam_template_00
+Reminder: The team meeting will begin at ten tomorrow.,0,safe_template_17
+Update: The requested document is available for collection. Please review the message.,0,safe_template_10
+Update: Your digital wallet needs verification to release funds. Thank you for your attention.,1,scam_template_29
+Reminder: Your account will be blocked unless you verify your identity. Further information is available in your account.,1,scam_template_03
+Account message: Your delivery address is invalid; pay to reschedule. Please review the message.,1,scam_template_13
+"Dear customer, The invoice has been sent to your email address. Please check the relevant details.",0,safe_template_26
+Account message: Your delivery address is invalid; pay to reschedule.,1,scam_template_13
+"Hello, The maintenance work is scheduled for Sunday. This message contains an account update.",0,safe_template_12
+Account message: Your loan has been approved; pay the processing charge. Further information is available in your account.,1,scam_template_18
+Update: Your account settings were updated successfully. Further information is available in your account.,0,safe_template_14
+"Dear customer, The package was delivered to the reception desk. Further information is available in your account.",0,safe_template_20
+Update: The maintenance work is scheduled for Sunday. Please check the relevant details.,0,safe_template_12
+Account message: Your appointment is confirmed for next week. Please check the relevant details.,0,safe_template_06
+Notice: Your order has been dispatched successfully. Please review the message.,0,safe_template_11
+Update: You have been selected for a cash giveaway. Please review the message.,1,scam_template_27
+"Dear customer, Your ticket booking has been confirmed. Please check the relevant details.",0,safe_template_13
+"Dear customer, Your account settings were updated successfully. Please check the relevant details.",0,safe_template_14
+Update: Your payment is on hold; confirm your identity.,1,scam_template_22
+"Hello, Your account has unusual activity; verify your credentials. This message contains an account update.",1,scam_template_19
+"Hello, Your subscription renewal is confirmed. Further information is available in your account.",0,safe_template_03
+Update: The library will close at six this evening.,0,safe_template_15
+Notice: Your application status is available on the official portal.,0,safe_template_18
+Your loan has been approved; pay the processing charge. Please review the message.,1,scam_template_18
+Reminder: An exclusive investment opportunity guarantees high returns. Please review the message.,1,scam_template_20
+Account message: Your account will be blocked unless you verify your identity. Please review the message.,1,scam_template_03
+"Dear customer, The invoice has been sent to your email address. Please review the message.",0,safe_template_26
+"Dear customer, Your ticket booking has been confirmed. This message contains an account update.",0,safe_template_13
+Account message: A package awaits customs clearance; pay the requested fee. This message contains an account update.,1,scam_template_25
+Notice: The team meeting will begin at ten tomorrow.,0,safe_template_17
+Your bank statement is available in the official application. This message contains an account update.,0,safe_template_00
+"Dear customer, Claim your reward by following the instructions now. Thank you for your attention.",1,scam_template_05
+Account message: An exclusive investment opportunity guarantees high returns. This message contains an account update.,1,scam_template_20
+Your bank statement is available in the official application. This message contains an account update.,0,safe_template_00
+Notice: Your bank statement is available in the official application.,0,safe_template_00
+A suspicious transaction was detected; confirm your details. Please check the relevant details.,1,scam_template_04
+Notice: Your reservation is confirmed for the selected date. Further information is available in your account.,0,safe_template_27
+"Dear customer, Your account access is at risk; act immediately. Further information is available in your account.",1,scam_template_24
+Your ticket booking has been confirmed.,0,safe_template_13
+"Dear customer, Your refund has been processed successfully. Please review the message.",0,safe_template_16
+"Dear customer, Your monthly statement has been generated.",0,safe_template_19
+Notice: Your bank account requires verification immediately.,1,scam_template_00
+Account message: Your account has unusual activity; verify your credentials. This message contains an account update.,1,scam_template_19
+Your monthly bill is ready to view. This message contains an account update.,0,safe_template_07
+Reminder: You have been selected for a cash giveaway. Thank you for your attention.,1,scam_template_27
+Reminder: Your parcel is delayed; pay a fee to release it. This message contains an account update.,1,scam_template_02
+"Dear customer, Your subscription will expire; update payment details. This message contains an account update.",1,scam_template_08
+"Dear customer, An exclusive investment opportunity guarantees high returns. Please review the message.",1,scam_template_20
+"Dear customer, Your invoice is overdue; use the payment instructions.",1,scam_template_28
+Reminder: Your delivery address is invalid; pay to reschedule. Please review the message.,1,scam_template_13
+"Hello, The requested document is available for collection. Thank you for your attention.",0,safe_template_10
+Your membership reward is expiring; claim it now. Thank you for your attention.,1,scam_template_21
+Your payment receipt is available in your account. Thank you for your attention.,0,safe_template_04
+Reminder: You have been selected for a cash giveaway. Please review the message.,1,scam_template_27
+Reminder: The invoice has been sent to your email address. This message contains an account update.,0,safe_template_26
+Account message: Your subscription renewal is confirmed. Please check the relevant details.,0,safe_template_03
+"Dear customer, Your payment receipt is available in your account. Please check the relevant details.",0,safe_template_04
+Notice: The payment was received and recorded. Thank you for your attention.,0,safe_template_22
+Account message: The system update will begin tonight. Further information is available in your account.,0,safe_template_28
+Reminder: Your appointment reminder is for Friday morning. Please check the relevant details.,0,safe_template_21
+Update: Your appointment reminder is for Friday morning. Further information is available in your account.,0,safe_template_21
+You have an unpaid toll; settle it immediately. Please review the message.,1,scam_template_12
+Your tax refund is ready; provide details to receive it. Please check the relevant details.,1,scam_template_16
+"Dear customer, Your bank account requires verification immediately. Thank you for your attention.",1,scam_template_00
+"Dear customer, The library will close at six this evening. Thank you for your attention.",0,safe_template_15
+Your tax refund is ready; provide details to receive it.,1,scam_template_16
+"Hello, Your bank statement is available in the official application. Please review the message.",0,safe_template_00
+Account message: The payment was received and recorded. Please review the message.,0,safe_template_22
+Update: Your class schedule has been updated. Thank you for your attention.,0,safe_template_09
+"Dear customer, Your wallet has been restricted; restore access now. Please check the relevant details.",1,scam_template_11
+"Hello, Your subscription will expire; update payment details. This message contains an account update.",1,scam_template_08
+Update: A suspicious transaction was detected; confirm your details.,1,scam_template_04
+Update: Your card has been locked; verify details to reactivate it. Further information is available in your account.,1,scam_template_26
+"Hello, You have won a prize; claim it before it expires.",1,scam_template_01
+Account message: Your phone number won a giveaway; claim your gift. This message contains an account update.,1,scam_template_17
+Reminder: Your appointment is confirmed for next week. Further information is available in your account.,0,safe_template_06
+Update: The timetable is available on the college website. Thank you for your attention.,0,safe_template_24
+"Hello, Your registration has been completed. Further information is available in your account.",0,safe_template_25
+Your bank statement is available in the official application. Please check the relevant details.,0,safe_template_00
+Account message: The package was delivered to the reception desk. Further information is available in your account.,0,safe_template_20
+Account message: Your phone number won a giveaway; claim your gift. Please review the message.,1,scam_template_17
+"Hello, Your membership reward is expiring; claim it now. This message contains an account update.",1,scam_template_21
+Account message: Your application status is available on the official portal. Further information is available in your account.,0,safe_template_18
+"Dear customer, A refund is waiting; provide information to receive it. Please review the message.",1,scam_template_10
+"Dear customer, A refund is waiting; provide information to receive it. Please review the message.",1,scam_template_10
+Notice: The library will close at six this evening. Please check the relevant details.,0,safe_template_15
+Account message: Your refund has been processed successfully. Please check the relevant details.,0,safe_template_16
+Notice: A suspicious transaction was detected; confirm your details. Further information is available in your account.,1,scam_template_04
+Update: The library will close at six this evening. This message contains an account update.,0,safe_template_15
+Reminder: Your account will be blocked unless you verify your identity. Please review the message.,1,scam_template_03
+"Dear customer, Your account settings were updated successfully. This message contains an account update.",0,safe_template_14
+Reminder: Your account has earned a bonus; withdraw it today. Please check the relevant details.,1,scam_template_14
+Your payment receipt is available in your account. This message contains an account update.,0,safe_template_04
+"Hello, A suspicious transaction was detected; confirm your details. Please review the message.",1,scam_template_04
+"Dear customer, Your membership reward is expiring; claim it now. Please review the message.",1,scam_template_21
+Update: Your class schedule has been updated. Please review the message.,0,safe_template_09
+Update: You are eligible for a cash reward; register today. Please check the relevant details.,1,scam_template_07
+Account message: Your account will be blocked unless you verify your identity. Thank you for your attention.,1,scam_template_03
+"Hello, The payment was received and recorded. Please check the relevant details.",0,safe_template_22
+Reminder: Your digital wallet needs verification to release funds. Further information is available in your account.,1,scam_template_29
+"Dear customer, Your payment is on hold; confirm your identity.",1,scam_template_22
+Update: The office will remain closed on the public holiday.,0,safe_template_05
+Account message: Urgent: confirm your account to avoid service suspension. This message contains an account update.,1,scam_template_09
+Notice: Your delivery address is invalid; pay to reschedule. Thank you for your attention.,1,scam_template_13
+"Dear customer, Your wallet has been restricted; restore access now. Further information is available in your account.",1,scam_template_11
+Notice: Your account access is at risk; act immediately. Thank you for your attention.,1,scam_template_24
+Account message: Your reservation is confirmed for the selected date. This message contains an account update.,0,safe_template_27
+Account message: You have been selected for a cash giveaway. Further information is available in your account.,1,scam_template_27
+"Dear customer, Claim your reward by following the instructions now. This message contains an account update.",1,scam_template_05
+Account message: Your parcel is scheduled for delivery tomorrow. This message contains an account update.,0,safe_template_01
+Update: The invoice has been sent to your email address. This message contains an account update.,0,safe_template_26
+"Dear customer, Your monthly bill is ready to view. Thank you for your attention.",0,safe_template_07
+Account message: A package awaits customs clearance; pay the requested fee. Please review the message.,1,scam_template_25
+"Hello, Your parcel is scheduled for delivery tomorrow. Further information is available in your account.",0,safe_template_01
+"Hello, Your class schedule has been updated. Further information is available in your account.",0,safe_template_09
+Notice: The package was delivered to the reception desk.,0,safe_template_20
+The maintenance work is scheduled for Sunday.,0,safe_template_12
+Notice: Your payment failed; submit your banking information. Thank you for your attention.,1,scam_template_06
+"Hello, Claim your reward by following the instructions now. This message contains an account update.",1,scam_template_05
+You qualify for a grant; submit your personal details. Please review the message.,1,scam_template_23
+Notice: Your monthly bill is ready to view. Please review the message.,0,safe_template_07
+Reminder: Your monthly statement has been generated. This message contains an account update.,0,safe_template_19
+"Dear customer, Your parcel is delayed; pay a fee to release it. Please check the relevant details.",1,scam_template_02
+"Dear customer, Your bank statement is available in the official application. This message contains an account update.",0,safe_template_00
+Account message: Your class schedule has been updated. This message contains an account update.,0,safe_template_09
+Notice: Your application status is available on the official portal. Thank you for your attention.,0,safe_template_18
+Account message: The meeting has been moved to the afternoon.,0,safe_template_02
+"Hello, The library will close at six this evening. Please review the message.",0,safe_template_15
+Account message: Your refund has been processed successfully.,0,safe_template_16
+Notice: Claim your reward by following the instructions now. This message contains an account update.,1,scam_template_05
+Update: Your parcel is scheduled for delivery tomorrow. Please review the message.,0,safe_template_01
+Account message: Your loan has been approved; pay the processing charge.,1,scam_template_18
+"Dear customer, Your delivery address is invalid; pay to reschedule. Please review the message.",1,scam_template_13
+"Dear customer, The meeting has been moved to the afternoon. Further information is available in your account.",0,safe_template_02
+Account message: Your parcel is delayed; pay a fee to release it. Further information is available in your account.,1,scam_template_02
+"Hello, Your phone number won a giveaway; claim your gift. Please review the message.",1,scam_template_17
+Reminder: The delivery agent will contact you on arrival.,0,safe_template_08
+Account message: Urgent: confirm your account to avoid service suspension. Thank you for your attention.,1,scam_template_09
+"Dear customer, Claim your reward by following the instructions now. Thank you for your attention.",1,scam_template_05
+Notice: Your bank account requires verification immediately. Please review the message.,1,scam_template_00
+Update: Your bank statement is available in the official application. Please review the message.,0,safe_template_00
+Reminder: Your monthly statement has been generated. Please check the relevant details.,0,safe_template_19
+Account message: Your parcel is delayed; pay a fee to release it. This message contains an account update.,1,scam_template_02
+Your delivery address is invalid; pay to reschedule. Please review the message.,1,scam_template_13
+Reminder: The timetable is available on the college website. Thank you for your attention.,0,safe_template_24
+"Hello, Your payment is on hold; confirm your identity. Thank you for your attention.",1,scam_template_22
+Your application status is available on the official portal. Please review the message.,0,safe_template_18
+"Dear customer, Your class schedule has been updated. Further information is available in your account.",0,safe_template_09
+Reminder: The maintenance work is scheduled for Sunday. Further information is available in your account.,0,safe_template_12
+Update: Your payment receipt is available in your account.,0,safe_template_04
+A security alert requires immediate account confirmation.,1,scam_template_15
+Your phone number won a giveaway; claim your gift.,1,scam_template_17
+Reminder: Your ticket booking has been confirmed.,0,safe_template_13
+Update: A security alert requires immediate account confirmation. Further information is available in your account.,1,scam_template_15
+Notice: You are eligible for a cash reward; register today. Please review the message.,1,scam_template_07
+Account message: Your payment failed; submit your banking information. Please review the message.,1,scam_template_06
+Account message: Your requested service is now active. Thank you for your attention.,0,safe_template_23
+Reminder: Your invoice is overdue; use the payment instructions.,1,scam_template_28
+Notice: Your payment receipt is available in your account. Please check the relevant details.,0,safe_template_04
+Reminder: Your subscription renewal is confirmed. Further information is available in your account.,0,safe_template_03
+Account message: Your parcel is delayed; pay a fee to release it. Thank you for your attention.,1,scam_template_02
+"Hello, Your appointment is confirmed for next week. Thank you for your attention.",0,safe_template_06
+Account message: Your class schedule has been updated. This message contains an account update.,0,safe_template_09
+"Hello, Your phone number won a giveaway; claim your gift. Please check the relevant details.",1,scam_template_17
+Your reservation is confirmed for the selected date. Please review the message.,0,safe_template_27
+"Dear customer, You are eligible for a cash reward; register today.",1,scam_template_07
+Reminder: You qualify for a grant; submit your personal details. Further information is available in your account.,1,scam_template_23
+Notice: The meeting has been moved to the afternoon. Thank you for your attention.,0,safe_template_02
+Update: Your account has unusual activity; verify your credentials. Further information is available in your account.,1,scam_template_19
+Update: Your reservation is confirmed for the selected date. Please review the message.,0,safe_template_27
+Update: Your refund has been processed successfully. Please review the message.,0,safe_template_16
+Reminder: Your tax refund is ready; provide details to receive it.,1,scam_template_16
+Notice: Your bank account requires verification immediately. Please check the relevant details.,1,scam_template_00
+Your payment receipt is available in your account. Please check the relevant details.,0,safe_template_04
+Account message: You have won a prize; claim it before it expires. Thank you for your attention.,1,scam_template_01
+Your order has been dispatched successfully.,0,safe_template_11
+Notice: A package awaits customs clearance; pay the requested fee. This message contains an account update.,1,scam_template_25
+Notice: Your order has been dispatched successfully. Thank you for your attention.,0,safe_template_11
+Reminder: Your requested service is now active.,0,safe_template_23
+Account message: An exclusive investment opportunity guarantees high returns.,1,scam_template_20
+Update: The requested document is available for collection. Please check the relevant details.,0,safe_template_10
+"Dear customer, Your card has been locked; verify details to reactivate it. Please review the message.",1,scam_template_26
+"Dear customer, Your monthly bill is ready to view. Please review the message.",0,safe_template_07
+"Dear customer, Your requested service is now active. Please review the message.",0,safe_template_23
+Account message: Your account settings were updated successfully. Thank you for your attention.,0,safe_template_14
+Update: You have won a prize; claim it before it expires. Thank you for your attention.,1,scam_template_01
+"Dear customer, Your subscription will expire; update payment details. Please review the message.",1,scam_template_08
+You have an unpaid toll; settle it immediately.,1,scam_template_12
+Notice: The requested document is available for collection. Please review the message.,0,safe_template_10
+The timetable is available on the college website.,0,safe_template_24
+Reminder: Your requested service is now active. Further information is available in your account.,0,safe_template_23
+Your class schedule has been updated.,0,safe_template_09
+Notice: Your support request has been received. Thank you for your attention.,0,safe_template_29
+Update: Your account access is at risk; act immediately. Please check the relevant details.,1,scam_template_24
+Update: You are eligible for a cash reward; register today. Please review the message.,1,scam_template_07
+Reminder: Your parcel is scheduled for delivery tomorrow. This message contains an account update.,0,safe_template_01
+Your subscription renewal is confirmed. Thank you for your attention.,0,safe_template_03
+The maintenance work is scheduled for Sunday.,0,safe_template_12
+"Hello, Your account has earned a bonus; withdraw it today. Further information is available in your account.",1,scam_template_14
+Notice: Your parcel is scheduled for delivery tomorrow. Further information is available in your account.,0,safe_template_01
+Notice: Your support request has been received. This message contains an account update.,0,safe_template_29
+Your payment receipt is available in your account. Further information is available in your account.,0,safe_template_04
+Notice: Your ticket booking has been confirmed.,0,safe_template_13
+Account message: Your invoice is overdue; use the payment instructions. Please check the relevant details.,1,scam_template_28
+Your reservation is confirmed for the selected date. This message contains an account update.,0,safe_template_27
+Account message: Your appointment is confirmed for next week. Please review the message.,0,safe_template_06
+Reminder: Your class schedule has been updated. Thank you for your attention.,0,safe_template_09
+Your bank account requires verification immediately. Please review the message.,1,scam_template_00
+Reminder: Your payment failed; submit your banking information. Please review the message.,1,scam_template_06
+Account message: Your tax refund is ready; provide details to receive it. Thank you for your attention.,1,scam_template_16
+You have an unpaid toll; settle it immediately. This message contains an account update.,1,scam_template_12
+Reminder: The team meeting will begin at ten tomorrow. Further information is available in your account.,0,safe_template_17
+Reminder: The system update will begin tonight. Thank you for your attention.,0,safe_template_28
+"Hello, Urgent: confirm your account to avoid service suspension.",1,scam_template_09
+"Dear customer, Claim your reward by following the instructions now.",1,scam_template_05
+Update: The system update will begin tonight. This message contains an account update.,0,safe_template_28
+Update: Your account settings were updated successfully. Please review the message.,0,safe_template_14
+"Dear customer, Your bank statement is available in the official application.",0,safe_template_00
+Account message: Urgent: confirm your account to avoid service suspension.,1,scam_template_09
+Account message: A security alert requires immediate account confirmation. Please review the message.,1,scam_template_15
+Notice: Your account access is at risk; act immediately. Further information is available in your account.,1,scam_template_24
+Account message: Your phone number won a giveaway; claim your gift. Please check the relevant details.,1,scam_template_17
+Notice: Your appointment reminder is for Friday morning. Please check the relevant details.,0,safe_template_21
+Account message: Your monthly statement has been generated. This message contains an account update.,0,safe_template_19
+"Hello, Your monthly bill is ready to view. Please check the relevant details.",0,safe_template_07
+"Dear customer, Your reservation is confirmed for the selected date.",0,safe_template_27
+"Hello, A package awaits customs clearance; pay the requested fee. This message contains an account update.",1,scam_template_25
+Account message: Your loan has been approved; pay the processing charge. Further information is available in your account.,1,scam_template_18
+"Dear customer, Your parcel is delayed; pay a fee to release it. This message contains an account update.",1,scam_template_02
+Reminder: You qualify for a grant; submit your personal details. Further information is available in your account.,1,scam_template_23
+Notice: You are eligible for a cash reward; register today. Please check the relevant details.,1,scam_template_07
+Account message: The payment was received and recorded. Thank you for your attention.,0,safe_template_22
+Reminder: Your subscription will expire; update payment details. Please check the relevant details.,1,scam_template_08
+"Hello, Your bank account requires verification immediately. Please check the relevant details.",1,scam_template_00
+A package awaits customs clearance; pay the requested fee.,1,scam_template_25
+Notice: Your parcel is delayed; pay a fee to release it. This message contains an account update.,1,scam_template_02
+Urgent: confirm your account to avoid service suspension. Thank you for your attention.,1,scam_template_09
+Account message: You have been selected for a cash giveaway. Further information is available in your account.,1,scam_template_27
+"Dear customer, A package awaits customs clearance; pay the requested fee. Thank you for your attention.",1,scam_template_25
+Your application status is available on the official portal. Further information is available in your account.,0,safe_template_18
+Notice: Your refund has been processed successfully.,0,safe_template_16
+Account message: Your order has been dispatched successfully.,0,safe_template_11
+Update: Your monthly statement has been generated. Further information is available in your account.,0,safe_template_19
+Notice: Your account access is at risk; act immediately. Further information is available in your account.,1,scam_template_24
+Account message: The invoice has been sent to your email address. Please check the relevant details.,0,safe_template_26
+Notice: Your account has earned a bonus; withdraw it today. Thank you for your attention.,1,scam_template_14
+Update: Your appointment reminder is for Friday morning. Further information is available in your account.,0,safe_template_21
+Reminder: Your class schedule has been updated. Please review the message.,0,safe_template_09
+Account message: Your refund has been processed successfully. Please review the message.,0,safe_template_16
+Your wallet has been restricted; restore access now.,1,scam_template_11
+Update: You have won a prize; claim it before it expires. Further information is available in your account.,1,scam_template_01
+Your account has earned a bonus; withdraw it today. Thank you for your attention.,1,scam_template_14
+Notice: Your reservation is confirmed for the selected date.,0,safe_template_27
+Reminder: Your membership reward is expiring; claim it now. Please check the relevant details.,1,scam_template_21
+"Dear customer, The system update will begin tonight. Please check the relevant details.",0,safe_template_28
+"Dear customer, Your loan has been approved; pay the processing charge. Please check the relevant details.",1,scam_template_18
+Account message: Your wallet has been restricted; restore access now. Please review the message.,1,scam_template_11
+Reminder: You have won a prize; claim it before it expires. Further information is available in your account.,1,scam_template_01
+Account message: Your subscription renewal is confirmed. Further information is available in your account.,0,safe_template_03
+"Dear customer, Your monthly bill is ready to view.",0,safe_template_07
+Reminder: Your support request has been received. This message contains an account update.,0,safe_template_29
+Update: Your loan has been approved; pay the processing charge. Please review the message.,1,scam_template_18
+"Dear customer, You qualify for a grant; submit your personal details. Please check the relevant details.",1,scam_template_23
+Reminder: Your account settings were updated successfully.,0,safe_template_14
+Your support request has been received. Please review the message.,0,safe_template_29
+Your payment receipt is available in your account.,0,safe_template_04
+Update: You have won a prize; claim it before it expires. Thank you for your attention.,1,scam_template_01
+Update: The package was delivered to the reception desk. Please check the relevant details.,0,safe_template_20
+"Dear customer, The system update will begin tonight. This message contains an account update.",0,safe_template_28
+Urgent: confirm your account to avoid service suspension. Please review the message.,1,scam_template_09
+Reminder: Your registration has been completed. This message contains an account update.,0,safe_template_25
+Your registration has been completed.,0,safe_template_25
+Update: Your requested service is now active. Please check the relevant details.,0,safe_template_23
+Account message: A package awaits customs clearance; pay the requested fee. Please check the relevant details.,1,scam_template_25
+Update: The library will close at six this evening.,0,safe_template_15
+"Hello, Your application status is available on the official portal. Further information is available in your account.",0,safe_template_18
+Account message: Your support request has been received. Please review the message.,0,safe_template_29
+Notice: The timetable is available on the college website. This message contains an account update.,0,safe_template_24
+Update: The requested document is available for collection. This message contains an account update.,0,safe_template_10
+Update: Your invoice is overdue; use the payment instructions. Further information is available in your account.,1,scam_template_28
+Update: Your subscription will expire; update payment details. Please review the message.,1,scam_template_08
+"Hello, Your payment receipt is available in your account. Please review the message.",0,safe_template_04
+"Dear customer, Your support request has been received. Please check the relevant details.",0,safe_template_29
+Your subscription will expire; update payment details. Thank you for your attention.,1,scam_template_08
+"Dear customer, Your order has been dispatched successfully. Please check the relevant details.",0,safe_template_11
+"Hello, The office will remain closed on the public holiday. Please check the relevant details.",0,safe_template_05
+Update: The package was delivered to the reception desk. This message contains an account update.,0,safe_template_20
+Reminder: Your ticket booking has been confirmed. Thank you for your attention.,0,safe_template_13
+Reminder: Your account settings were updated successfully.,0,safe_template_14
+"Hello, The library will close at six this evening.",0,safe_template_15
+Your support request has been received. Thank you for your attention.,0,safe_template_29
+"Dear customer, You are eligible for a cash reward; register today. Please review the message.",1,scam_template_07
+"Dear customer, Your application status is available on the official portal. Please check the relevant details.",0,safe_template_18
+Account message: The package was delivered to the reception desk. Please review the message.,0,safe_template_20
+"Hello, A package awaits customs clearance; pay the requested fee. Please review the message.",1,scam_template_25
+Reminder: Claim your reward by following the instructions now. Thank you for your attention.,1,scam_template_05
+"Dear customer, Your wallet has been restricted; restore access now. Please review the message.",1,scam_template_11
+Account message: Your monthly statement has been generated.,0,safe_template_19
+Reminder: The maintenance work is scheduled for Sunday. Thank you for your attention.,0,safe_template_12
+Account message: Claim your reward by following the instructions now.,1,scam_template_05
+Your membership reward is expiring; claim it now. Please review the message.,1,scam_template_21
+"Hello, An exclusive investment opportunity guarantees high returns.",1,scam_template_20
+Update: Your parcel is scheduled for delivery tomorrow.,0,safe_template_01
+Update: Your digital wallet needs verification to release funds. Thank you for your attention.,1,scam_template_29
+Account message: Your requested service is now active.,0,safe_template_23
+Notice: The library will close at six this evening. Please check the relevant details.,0,safe_template_15
+Notice: Your subscription renewal is confirmed.,0,safe_template_03
+Update: Claim your reward by following the instructions now. Please check the relevant details.,1,scam_template_05
+Account message: Your parcel is delayed; pay a fee to release it. Please check the relevant details.,1,scam_template_02
+"Hello, You are eligible for a cash reward; register today.",1,scam_template_07
+"Dear customer, An exclusive investment opportunity guarantees high returns. Please review the message.",1,scam_template_20
+Account message: Your support request has been received. Please review the message.,0,safe_template_29
+"Hello, A refund is waiting; provide information to receive it. This message contains an account update.",1,scam_template_10
+"Hello, The invoice has been sent to your email address.",0,safe_template_26
+Reminder: The meeting has been moved to the afternoon. Please check the relevant details.,0,safe_template_02
+Update: The timetable is available on the college website. Thank you for your attention.,0,safe_template_24
+"Hello, Your wallet has been restricted; restore access now.",1,scam_template_11
+"Dear customer, Your bank account requires verification immediately. Please review the message.",1,scam_template_00
+You are eligible for a cash reward; register today. This message contains an account update.,1,scam_template_07
+"Dear customer, You have won a prize; claim it before it expires. Please review the message.",1,scam_template_01
+"Dear customer, Your payment is on hold; confirm your identity. This message contains an account update.",1,scam_template_22
+Reminder: The meeting has been moved to the afternoon.,0,safe_template_02
+"Dear customer, You have an unpaid toll; settle it immediately. Thank you for your attention.",1,scam_template_12
+Update: A security alert requires immediate account confirmation. Please check the relevant details.,1,scam_template_15
+Update: Your account settings were updated successfully. Thank you for your attention.,0,safe_template_14
+The payment was received and recorded.,0,safe_template_22
+Update: Your account settings were updated successfully. Further information is available in your account.,0,safe_template_14
+Your invoice is overdue; use the payment instructions.,1,scam_template_28
+Your parcel is scheduled for delivery tomorrow. Further information is available in your account.,0,safe_template_01
+Your reservation is confirmed for the selected date. Further information is available in your account.,0,safe_template_27
+Your appointment reminder is for Friday morning. Please check the relevant details.,0,safe_template_21
+Update: Your reservation is confirmed for the selected date. Thank you for your attention.,0,safe_template_27
+Update: Your delivery address is invalid; pay to reschedule. Thank you for your attention.,1,scam_template_13
+Reminder: Your bank statement is available in the official application. Please check the relevant details.,0,safe_template_00
+Update: Your account has earned a bonus; withdraw it today. This message contains an account update.,1,scam_template_14
+"Hello, Your monthly statement has been generated. This message contains an account update.",0,safe_template_19
+An exclusive investment opportunity guarantees high returns. Please review the message.,1,scam_template_20
+Update: You are eligible for a cash reward; register today. This message contains an account update.,1,scam_template_07
+Notice: The team meeting will begin at ten tomorrow. Thank you for your attention.,0,safe_template_17
+"Hello, You qualify for a grant; submit your personal details. Please review the message.",1,scam_template_23
+Update: The team meeting will begin at ten tomorrow. Thank you for your attention.,0,safe_template_17
+"Dear customer, Your monthly statement has been generated. Please review the message.",0,safe_template_19
+The delivery agent will contact you on arrival. This message contains an account update.,0,safe_template_08
+Account message: The meeting has been moved to the afternoon. This message contains an account update.,0,safe_template_02
+Your support request has been received. Please check the relevant details.,0,safe_template_29
+Reminder: Your reservation is confirmed for the selected date. This message contains an account update.,0,safe_template_27
+"Dear customer, You have been selected for a cash giveaway. Further information is available in your account.",1,scam_template_27
+"Hello, Your parcel is scheduled for delivery tomorrow.",0,safe_template_01
+"Hello, Your refund has been processed successfully. Thank you for your attention.",0,safe_template_16
+Update: Your refund has been processed successfully. Please check the relevant details.,0,safe_template_16
+"Hello, Your account access is at risk; act immediately. Please check the relevant details.",1,scam_template_24
+Notice: The requested document is available for collection. Thank you for your attention.,0,safe_template_10
+The office will remain closed on the public holiday.,0,safe_template_05
+Account message: The timetable is available on the college website. Thank you for your attention.,0,safe_template_24
+"Dear customer, You are eligible for a cash reward; register today. Please check the relevant details.",1,scam_template_07
+You are eligible for a cash reward; register today. Thank you for your attention.,1,scam_template_07
+Notice: The system update will begin tonight. Please check the relevant details.,0,safe_template_28
+Update: Your application status is available on the official portal. Please review the message.,0,safe_template_18
+Your phone number won a giveaway; claim your gift. This message contains an account update.,1,scam_template_17
+Account message: An exclusive investment opportunity guarantees high returns. This message contains an account update.,1,scam_template_20
+Account message: Your refund has been processed successfully. Further information is available in your account.,0,safe_template_16
+"Hello, The team meeting will begin at ten tomorrow.",0,safe_template_17
+Notice: The invoice has been sent to your email address. Further information is available in your account.,0,safe_template_26
+"Dear customer, The meeting has been moved to the afternoon. Further information is available in your account.",0,safe_template_02
+"Dear customer, You qualify for a grant; submit your personal details. Thank you for your attention.",1,scam_template_23
+Update: Urgent: confirm your account to avoid service suspension. Further information is available in your account.,1,scam_template_09
+"Dear customer, Your bank statement is available in the official application. This message contains an account update.",0,safe_template_00
+Notice: You are eligible for a cash reward; register today. Please check the relevant details.,1,scam_template_07
+Notice: Your monthly bill is ready to view. Thank you for your attention.,0,safe_template_07
+"Hello, Your monthly statement has been generated. This message contains an account update.",0,safe_template_19
+Account message: Urgent: confirm your account to avoid service suspension.,1,scam_template_09
+"Dear customer, Your account settings were updated successfully. Further information is available in your account.",0,safe_template_14
+Account message: Your delivery address is invalid; pay to reschedule.,1,scam_template_13
+Reminder: Your account has earned a bonus; withdraw it today. Please review the message.,1,scam_template_14
+"Hello, The timetable is available on the college website. Further information is available in your account.",0,safe_template_24
+"Hello, An exclusive investment opportunity guarantees high returns. Thank you for your attention.",1,scam_template_20
+Reminder: Your payment failed; submit your banking information. Please review the message.,1,scam_template_06
+"Dear customer, A refund is waiting; provide information to receive it. Please check the relevant details.",1,scam_template_10
+Account message: Your order has been dispatched successfully. Please check the relevant details.,0,safe_template_11
+Account message: You have an unpaid toll; settle it immediately. Please check the relevant details.,1,scam_template_12
+Update: The invoice has been sent to your email address. This message contains an account update.,0,safe_template_26
+"Hello, Your account has unusual activity; verify your credentials. Further information is available in your account.",1,scam_template_19
+Notice: The maintenance work is scheduled for Sunday. Thank you for your attention.,0,safe_template_12
+"Hello, A refund is waiting; provide information to receive it. Further information is available in your account.",1,scam_template_10
+Update: The meeting has been moved to the afternoon. This message contains an account update.,0,safe_template_02
+Reminder: Your bank account requires verification immediately. Further information is available in your account.,1,scam_template_00
+Account message: Claim your reward by following the instructions now. Thank you for your attention.,1,scam_template_05
+Reminder: Your payment receipt is available in your account. Please check the relevant details.,0,safe_template_04
+Account message: The team meeting will begin at ten tomorrow. Thank you for your attention.,0,safe_template_17
+"Dear customer, Your requested service is now active. Please check the relevant details.",0,safe_template_23
+"Dear customer, Your payment is on hold; confirm your identity. Please review the message.",1,scam_template_22
+Reminder: Your subscription renewal is confirmed. Please review the message.,0,safe_template_03
+Reminder: Your support request has been received. Thank you for your attention.,0,safe_template_29
+Notice: A security alert requires immediate account confirmation. This message contains an account update.,1,scam_template_15
+Notice: The meeting has been moved to the afternoon. This message contains an account update.,0,safe_template_02
+The office will remain closed on the public holiday. Further information is available in your account.,0,safe_template_05
+Update: Your application status is available on the official portal. Please review the message.,0,safe_template_18
+Reminder: Your parcel is scheduled for delivery tomorrow. Please review the message.,0,safe_template_01
+Notice: Your parcel is scheduled for delivery tomorrow. Please review the message.,0,safe_template_01
+"Dear customer, The system update will begin tonight. This message contains an account update.",0,safe_template_28
+Reminder: Your registration has been completed. Please review the message.,0,safe_template_25
+Account message: Your class schedule has been updated. Further information is available in your account.,0,safe_template_09
+Notice: The meeting has been moved to the afternoon.,0,safe_template_02
+"Hello, The package was delivered to the reception desk. Further information is available in your account.",0,safe_template_20
+Notice: You have been selected for a cash giveaway. Thank you for your attention.,1,scam_template_27
+Update: Your payment receipt is available in your account. Thank you for your attention.,0,safe_template_04
+Update: Your invoice is overdue; use the payment instructions. Please check the relevant details.,1,scam_template_28
+Reminder: Your card has been locked; verify details to reactivate it. Please review the message.,1,scam_template_26
+"Dear customer, The payment was received and recorded. This message contains an account update.",0,safe_template_22
+You have been selected for a cash giveaway.,1,scam_template_27
+"Dear customer, Your monthly bill is ready to view. This message contains an account update.",0,safe_template_07
+Update: Your registration has been completed. Thank you for your attention.,0,safe_template_25
+Your account access is at risk; act immediately. Please review the message.,1,scam_template_24
+Reminder: A suspicious transaction was detected; confirm your details. Please check the relevant details.,1,scam_template_04
+Update: Your appointment reminder is for Friday morning.,0,safe_template_21
+Account message: Your invoice is overdue; use the payment instructions. Please check the relevant details.,1,scam_template_28
+Update: Your monthly bill is ready to view.,0,safe_template_07
+Your ticket booking has been confirmed. Please check the relevant details.,0,safe_template_13
+"Hello, Your account settings were updated successfully.",0,safe_template_14
+"Dear customer, Your appointment reminder is for Friday morning. Further information is available in your account.",0,safe_template_21
+Notice: A refund is waiting; provide information to receive it. Please review the message.,1,scam_template_10
+"Dear customer, Your account has unusual activity; verify your credentials. Please check the relevant details.",1,scam_template_19
+Your class schedule has been updated. Please review the message.,0,safe_template_09
+"Dear customer, Your ticket booking has been confirmed. This message contains an account update.",0,safe_template_13
+"Dear customer, Your account has unusual activity; verify your credentials. Thank you for your attention.",1,scam_template_19
+The delivery agent will contact you on arrival. Thank you for your attention.,0,safe_template_08
+"Dear customer, The timetable is available on the college website. Thank you for your attention.",0,safe_template_24
+Account message: Your appointment reminder is for Friday morning. This message contains an account update.,0,safe_template_21
+Update: The meeting has been moved to the afternoon. Please review the message.,0,safe_template_02
+Update: Your bank statement is available in the official application.,0,safe_template_00
+Update: Your application status is available on the official portal. Please check the relevant details.,0,safe_template_18
+Update: Your appointment is confirmed for next week. Please review the message.,0,safe_template_06
+Update: Your payment receipt is available in your account. Further information is available in your account.,0,safe_template_04
+Update: A suspicious transaction was detected; confirm your details. Please review the message.,1,scam_template_04
+Notice: The requested document is available for collection. Please review the message.,0,safe_template_10
+Reminder: An exclusive investment opportunity guarantees high returns. Thank you for your attention.,1,scam_template_20
+"Hello, A package awaits customs clearance; pay the requested fee.",1,scam_template_25
+Your requested service is now active. Please check the relevant details.,0,safe_template_23
+The payment was received and recorded.,0,safe_template_22
+"Dear customer, Your refund has been processed successfully. This message contains an account update.",0,safe_template_16
+The delivery agent will contact you on arrival.,0,safe_template_08
+A refund is waiting; provide information to receive it. This message contains an account update.,1,scam_template_10
+Reminder: Your payment failed; submit your banking information. Please check the relevant details.,1,scam_template_06
+Notice: The payment was received and recorded. Please review the message.,0,safe_template_22
+Your parcel is delayed; pay a fee to release it. Further information is available in your account.,1,scam_template_02
+The package was delivered to the reception desk.,0,safe_template_20
+Account message: Your wallet has been restricted; restore access now. Please review the message.,1,scam_template_11
+Account message: Your loan has been approved; pay the processing charge. Further information is available in your account.,1,scam_template_18
+Your account has earned a bonus; withdraw it today. Please check the relevant details.,1,scam_template_14
+Account message: An exclusive investment opportunity guarantees high returns. Thank you for your attention.,1,scam_template_20
+"Hello, Your account has unusual activity; verify your credentials. Please review the message.",1,scam_template_19
+Update: Your digital wallet needs verification to release funds. Thank you for your attention.,1,scam_template_29
+The timetable is available on the college website. This message contains an account update.,0,safe_template_24
+The meeting has been moved to the afternoon. Please check the relevant details.,0,safe_template_02
+Reminder: Your card has been locked; verify details to reactivate it.,1,scam_template_26
+Reminder: Your account will be blocked unless you verify your identity. Please check the relevant details.,1,scam_template_03
+"Dear customer, Your bank account requires verification immediately. Further information is available in your account.",1,scam_template_00
+"Hello, Your requested service is now active. Thank you for your attention.",0,safe_template_23
+Reminder: Your account access is at risk; act immediately. Please check the relevant details.,1,scam_template_24
+"Hello, Your loan has been approved; pay the processing charge. This message contains an account update.",1,scam_template_18
+Urgent: confirm your account to avoid service suspension. Please review the message.,1,scam_template_09
+Update: The delivery agent will contact you on arrival. Please review the message.,0,safe_template_08
+Account message: A refund is waiting; provide information to receive it. Please review the message.,1,scam_template_10
+"Dear customer, Your class schedule has been updated. Further information is available in your account.",0,safe_template_09
+Account message: Your requested service is now active. Please check the relevant details.,0,safe_template_23
+Update: Your ticket booking has been confirmed. Please check the relevant details.,0,safe_template_13
+Reminder: Your tax refund is ready; provide details to receive it. This message contains an account update.,1,scam_template_16
+Update: The office will remain closed on the public holiday.,0,safe_template_05
+Account message: Your account has earned a bonus; withdraw it today.,1,scam_template_14
+"Hello, The package was delivered to the reception desk. This message contains an account update.",0,safe_template_20
+Account message: Your payment is on hold; confirm your identity. Thank you for your attention.,1,scam_template_22
+Reminder: The requested document is available for collection.,0,safe_template_10
+"Dear customer, Your delivery address is invalid; pay to reschedule. Please review the message.",1,scam_template_13
+"Dear customer, Your monthly statement has been generated. Further information is available in your account.",0,safe_template_19
+Update: A refund is waiting; provide information to receive it.,1,scam_template_10
+Reminder: Your subscription will expire; update payment details.,1,scam_template_08
+Notice: Your appointment is confirmed for next week. Please check the relevant details.,0,safe_template_06
+"Dear customer, An exclusive investment opportunity guarantees high returns.",1,scam_template_20
+Notice: The office will remain closed on the public holiday. Please review the message.,0,safe_template_05
+"Hello, The invoice has been sent to your email address.",0,safe_template_26
+Update: Your invoice is overdue; use the payment instructions. This message contains an account update.,1,scam_template_28
+Account message: Your appointment reminder is for Friday morning. This message contains an account update.,0,safe_template_21
+Notice: Your appointment reminder is for Friday morning. Thank you for your attention.,0,safe_template_21
+Notice: Your registration has been completed. Please review the message.,0,safe_template_25
+Notice: A refund is waiting; provide information to receive it. Thank you for your attention.,1,scam_template_10
+"Hello, You have won a prize; claim it before it expires. Further information is available in your account.",1,scam_template_01
+Notice: The delivery agent will contact you on arrival.,0,safe_template_08
+Update: A package awaits customs clearance; pay the requested fee. Further information is available in your account.,1,scam_template_25
+Update: Your support request has been received. Thank you for your attention.,0,safe_template_29
+"Dear customer, A suspicious transaction was detected; confirm your details. This message contains an account update.",1,scam_template_04
+"Dear customer, Your account settings were updated successfully. Thank you for your attention.",0,safe_template_14
+"Dear customer, Your invoice is overdue; use the payment instructions. Please check the relevant details.",1,scam_template_28
+"Dear customer, The delivery agent will contact you on arrival. Please check the relevant details.",0,safe_template_08
+Notice: You have an unpaid toll; settle it immediately. This message contains an account update.,1,scam_template_12
+Update: Your bank account requires verification immediately. This message contains an account update.,1,scam_template_00
+Account message: A security alert requires immediate account confirmation. Thank you for your attention.,1,scam_template_15
+Your bank statement is available in the official application. Further information is available in your account.,0,safe_template_00
+Account message: Your account has unusual activity; verify your credentials.,1,scam_template_19
+Update: Your subscription will expire; update payment details. This message contains an account update.,1,scam_template_08
+The maintenance work is scheduled for Sunday. Please review the message.,0,safe_template_12
+Notice: You have won a prize; claim it before it expires. This message contains an account update.,1,scam_template_01
+"Dear customer, The meeting has been moved to the afternoon. Please review the message.",0,safe_template_02
+Update: Your reservation is confirmed for the selected date. Please check the relevant details.,0,safe_template_27
+Notice: Your order has been dispatched successfully. Please check the relevant details.,0,safe_template_11
+Account message: Your invoice is overdue; use the payment instructions.,1,scam_template_28
+Update: The system update will begin tonight. Further information is available in your account.,0,safe_template_28
+"Dear customer, Your payment receipt is available in your account. Further information is available in your account.",0,safe_template_04
+Update: The team meeting will begin at ten tomorrow. Please check the relevant details.,0,safe_template_17
+Update: Urgent: confirm your account to avoid service suspension. Thank you for your attention.,1,scam_template_09
+Your application status is available on the official portal. Please check the relevant details.,0,safe_template_18
+"Hello, Your payment receipt is available in your account. Thank you for your attention.",0,safe_template_04
+"Hello, A package awaits customs clearance; pay the requested fee. Please review the message.",1,scam_template_25
+The timetable is available on the college website.,0,safe_template_24
+You qualify for a grant; submit your personal details. Thank you for your attention.,1,scam_template_23
+The maintenance work is scheduled for Sunday. This message contains an account update.,0,safe_template_12
+Update: Your monthly bill is ready to view. Further information is available in your account.,0,safe_template_07
+Notice: You have an unpaid toll; settle it immediately. Further information is available in your account.,1,scam_template_12
+Reminder: You have won a prize; claim it before it expires. Further information is available in your account.,1,scam_template_01
+Notice: Your payment is on hold; confirm your identity. Please check the relevant details.,1,scam_template_22
+Account message: Your delivery address is invalid; pay to reschedule. Thank you for your attention.,1,scam_template_13
+"Hello, The team meeting will begin at ten tomorrow.",0,safe_template_17
+Reminder: Your account has unusual activity; verify your credentials.,1,scam_template_19
+Account message: The requested document is available for collection. Please review the message.,0,safe_template_10
+Update: Your phone number won a giveaway; claim your gift. Please check the relevant details.,1,scam_template_17
+Reminder: The delivery agent will contact you on arrival. Please check the relevant details.,0,safe_template_08
+Account message: Your payment failed; submit your banking information. Thank you for your attention.,1,scam_template_06
+"Dear customer, Your ticket booking has been confirmed. Please review the message.",0,safe_template_13
+Reminder: The invoice has been sent to your email address. Thank you for your attention.,0,safe_template_26
+Reminder: A suspicious transaction was detected; confirm your details. Further information is available in your account.,1,scam_template_04
+Notice: Your tax refund is ready; provide details to receive it. This message contains an account update.,1,scam_template_16
+Notice: You qualify for a grant; submit your personal details. Please check the relevant details.,1,scam_template_23
+"Hello, Your payment failed; submit your banking information. Please check the relevant details.",1,scam_template_06
+Update: The payment was received and recorded. Please review the message.,0,safe_template_22
+Update: The timetable is available on the college website. Further information is available in your account.,0,safe_template_24
+"Hello, The invoice has been sent to your email address.",0,safe_template_26
+"Hello, Your ticket booking has been confirmed. This message contains an account update.",0,safe_template_13
+Notice: The invoice has been sent to your email address. Please check the relevant details.,0,safe_template_26

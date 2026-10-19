@@ -1,0 +1,14 @@
+EXPERIMENT 3 PROTOCOL
+=====================
+Seed: 42
+Input file: C:\M\Scam shield research\Experiment 3\scamshield_experiment3_code\sms_spam_dataset.csv
+Text column: text
+Label column: label
+Rows after cleaning: 5572
+Train/test sizes: 4179/1393
+Positive label: 'scam'
+Classifier: TF-IDF word unigrams+bigrams + class-balanced Logistic Regression
+Split: stratified random split; seed 42
+Adversarial augmentation: up to two transformations per training message
+Caution: paraphrase substitutions are heuristic; manually validate meaning and labels.
+Attack success rate: clean-correct positive examples changed to non-positive predictions / clean-correct positive examples.

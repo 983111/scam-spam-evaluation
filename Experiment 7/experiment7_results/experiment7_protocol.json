@@ -1,0 +1,26 @@
+{
+  "experiment": "Experiment 7: Explanation Stability",
+  "model_file": "linear_svm.joblib",
+  "predictions_file": "linear_svm_predictions.csv",
+  "random_seed": 42,
+  "maximum_messages_per_class": 50,
+  "selected_correctly_classified_messages": 100,
+  "top_k_features": 10,
+  "maximum_unique_words_occluded_per_message": 24,
+  "explanation_method": "Single-word occlusion; signed change in the original predicted-class decision margin",
+  "stability_metrics": [
+    "prediction consistency",
+    "top-feature Jaccard similarity",
+    "top-feature overlap",
+    "rank-weighted similarity",
+    "absolute decision-score change"
+  ],
+  "important_limitations": [
+    "Candidate paraphrases are not guaranteed to preserve meaning.",
+    "Manually review transformations before treating them as meaning-preserving.",
+    "Only correctly classified original messages were selected.",
+    "Word occlusion is a perturbation-based attribution method, not proof of causal feature importance.",
+    "Classification metrics on the selected subset are conditional and must not replace full-test-set results.",
+    "Attributions are restricted to the first configured number of unique words in each message."
+  ]
+}

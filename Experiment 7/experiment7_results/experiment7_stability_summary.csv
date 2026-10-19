@@ -1,0 +1,4 @@
+condition,messages_evaluated,prediction_consistency,prediction_flip_rate,mean_top_feature_jaccard,mean_top_feature_overlap,mean_rank_weighted_similarity,mean_absolute_score_change,classification_accuracy_after_change,unchanged_variant_fraction
+candidate_paraphrase,100,1.0,0.0,0.9896969696969697,0.9940000000000001,0.9853356481481481,0.006023280616204156,1.0,0.96
+formatting_case_whitespace,100,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+formatting_whitespace,100,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0

@@ -1,0 +1,44 @@
+Dataset rows used: 5572
+Training rows: 4179; test rows: 1393
+Detected positive/scam label: 'scam'
+
+
+=== clean_baseline: clean held-out test ===
+              precision    recall  f1-score   support
+
+  legitimate       0.99      0.99      0.99      1206
+        scam       0.95      0.94      0.94       187
+
+    accuracy                           0.98      1393
+   macro avg       0.97      0.96      0.97      1393
+weighted avg       0.98      0.98      0.98      1393
+
+=== normalization: clean held-out test ===
+              precision    recall  f1-score   support
+
+  legitimate       0.99      0.99      0.99      1206
+        scam       0.94      0.93      0.93       187
+
+    accuracy                           0.98      1393
+   macro avg       0.96      0.96      0.96      1393
+weighted avg       0.98      0.98      0.98      1393
+
+=== adversarial_training: clean held-out test ===
+              precision    recall  f1-score   support
+
+  legitimate       0.99      0.99      0.99      1206
+        scam       0.94      0.94      0.94       187
+
+    accuracy                           0.98      1393
+   macro avg       0.96      0.97      0.96      1393
+weighted avg       0.98      0.98      0.98      1393
+
+=== combined_defense: clean held-out test ===
+              precision    recall  f1-score   support
+
+  legitimate       0.99      0.99      0.99      1206
+        scam       0.94      0.94      0.94       187
+
+    accuracy                           0.98      1393
+   macro avg       0.97      0.97      0.97      1393
+weighted avg       0.98      0.98      0.98      1393

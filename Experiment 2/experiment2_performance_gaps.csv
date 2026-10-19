@@ -1,0 +1,4 @@
+model,Grouped,Random,random_minus_grouped_f1
+Pretrained MiniLM + Logistic Regression,0.9290669170187242,0.9958332609941145,0.06676634397539027
+TF-IDF LinearSVC,1.0,1.0,0.0
+TF-IDF Logistic Regression,0.9916660879227724,1.0,0.008333912077227557

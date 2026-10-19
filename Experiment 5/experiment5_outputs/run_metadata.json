@@ -1,0 +1,37 @@
+{
+  "experiment": "Experiment 5: uncertainty-aware scam detection with abstention",
+  "dataset": "scam_dataset.csv",
+  "text_column": "text",
+  "label_column": "label",
+  "label_mapping": {
+    "0": "safe/legitimate",
+    "1": "scam"
+  },
+  "rows_after_cleaning": 5158,
+  "train_rows": 3300,
+  "validation_rows": 826,
+  "test_rows": 1032,
+  "random_seed": 42,
+  "calibration_method": "sigmoid calibration on validation set using FrozenEstimator",
+  "thresholds": [
+    0.5,
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    0.99
+  ],
+  "scikit_learn_version": "1.9.1",
+  "limitations": [
+    "The results are specific to the dataset and split used.",
+    "Synthetic text perturbations are limited stress tests, not comprehensive real-world attacks.",
+    "Some transformations may alter meaning; inspect examples before assuming labels remain valid.",
+    "Do not select a production threshold based on test results; choose it on validation data, then evaluate once on test data.",
+    "Calibration depends on the validation set being representative of future messages."
+  ]
+}

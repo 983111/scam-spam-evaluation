@@ -1,0 +1,22 @@
+{
+  "dataset": "UCI SMS Spam Collection",
+  "dataset_url": "https://archive.ics.uci.edu/static/public/228/sms+spam+collection.zip",
+  "license": "CC BY 4.0",
+  "initial_rows": 5574,
+  "empty_text_rows": 0,
+  "invalid_label_rows": 0,
+  "exact_duplicate_rows_removed": 415,
+  "final_rows": 5159,
+  "near_duplicate_candidate_pairs": 124,
+  "conflicting_label_text_groups": 0,
+  "split_sizes": {
+    "train": 3611,
+    "validation": 774,
+    "test": 774
+  },
+  "exact_texts_crossing_splits": 0,
+  "split_method": "stratified random, seed 42",
+  "campaign_metadata": "not provided in this dataset",
+  "label_definition": "0=ham (legitimate), 1=spam",
+  "warning": "Spam is not synonymous with confirmed fraud or phishing. Near-duplicate candidates need manual review. Random splitting may still allow related templates across splits."
+}

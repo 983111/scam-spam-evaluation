@@ -1,0 +1,15 @@
+Experiment 6: Measure the Real Cost of Deployment
+Dataset: scam_dataset.csv
+Random seed: 42
+Test fraction: 0.2
+Training samples: 4126
+Test samples: 1032
+Warm-up predictions per model: 3
+Timing repeats: 3
+Timing subset size: 500
+Batch size for throughput: 32
+All models use the same stratified test set.
+Adversarial perturbations are deterministic and identical for all models.
+Latency is measured on CPU with single-message predictions; throughput uses batched predictions.
+Memory values are process-wide RSS snapshots, not isolated peak memory for each model.
+Serialized model size is measured from the saved joblib file.

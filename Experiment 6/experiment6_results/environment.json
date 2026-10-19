@@ -1,0 +1,17 @@
+{
+  "python_version": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 197 Stepping 2, GenuineIntel",
+  "logical_cpu_count": 14,
+  "scikit_learn_version": "1.9.0",
+  "numpy_version": "2.5.2",
+  "pandas_version": "3.0.5",
+  "joblib_version": "1.6.0",
+  "test_size_fraction": 0.2,
+  "random_seed": 42,
+  "warmup_runs": 3,
+  "timing_repeats": 3,
+  "batch_size": 32,
+  "measurement_note": "CPU/RAM environment reported by Python; no GPU acceleration is used by these scikit-learn models.",
+  "total_system_ram_gb": 15.23
+}

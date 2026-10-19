@@ -1,0 +1,5 @@
+condition,accuracy,macro_f1,scam_precision,scam_recall
+original_selected_subset,1.0,1.0,1.0,1.0
+formatting_case_whitespace,1.0,1.0,1.0,1.0
+formatting_whitespace,1.0,1.0,1.0,1.0
+candidate_paraphrase,1.0,1.0,1.0,1.0

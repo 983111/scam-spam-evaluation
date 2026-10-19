@@ -41,7 +41,7 @@ Each experiment should document its research question, dataset and split, prepro
 
 Evaluate the detector under the deployment conditions implemented in the script. Report test-set composition, decision threshold, precision, recall, F1-score, confusion matrix, and any latency or resource measurements actually collected. Distinguish offline benchmark performance from real-world deployment performance.
 
-![Experiment 1 deployment evaluation results](results/figures/experiment1_deployment.png)
+
 
 ### Experiment 2 — Generalization and split strategy
 

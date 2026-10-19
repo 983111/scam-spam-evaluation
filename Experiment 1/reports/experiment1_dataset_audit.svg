@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" fill="#ffffff"/>
+<text x="60" y="58" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#161616">Experiment 1 — Dataset audit and split composition</text>
+<text x="60" y="91" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#555555">Source: Experiment 1/reports CSV and audit summary committed in this repository</text>
+<text x="60" y="145" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#161616">Class distribution after exact-duplicate removal (n = 5,159)</text>
+<text x="60" y="198" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#333333">Legitimate (ham)</text>
+<rect x="260" y="174" width="650" height="34" rx="3" fill="#eeeeee"/><rect x="260" y="174" width="650" height="34" rx="3" fill="#3f596b"/>
+<text x="930" y="198" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#222222">4,517 (87.6%)</text>
+<text x="60" y="255" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#333333">Spam</text>
+<rect x="260" y="231" width="650" height="34" rx="3" fill="#eeeeee"/><rect x="260" y="231" width="92.4" height="34" rx="3" fill="#a46a45"/>
+<text x="930" y="255" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#222222">642 (12.4%)</text>
+<line x1="60" y1="302" x2="1140" y2="302" stroke="#dddddd" stroke-width="2"/>
+<text x="60" y="350" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#161616">Stratified split counts (seed = 42)</text>
+<text x="60" y="400" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#333333">Train</text>
+<rect x="200" y="378" width="620" height="28" fill="#eeeeee"/><rect x="200" y="378" width="620" height="28" fill="#3f596b"/>
+<text x="840" y="399" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222222">Ham 3,162 · Spam 449 · Total 3,611</text>
+<text x="60" y="458" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#333333">Validation</text>
+<rect x="200" y="436" width="620" height="28" fill="#eeeeee"/><rect x="200" y="436" width="132.9" height="28" fill="#3f596b"/>
+<text x="840" y="457" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222222">Ham 677 · Spam 97 · Total 774</text>
+<text x="60" y="516" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#333333">Test</text>
+<rect x="200" y="494" width="620" height="28" fill="#eeeeee"/><rect x="200" y="494" width="132.9" height="28" fill="#3f596b"/>
+<text x="840" y="515" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222222">Ham 678 · Spam 96 · Total 774</text>
+<rect x="60" y="560" width="1080" height="76" rx="4" fill="#f6f6f6"/>
+<text x="80" y="589" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222222">Audit: 5,574 initial rows; 415 exact duplicates removed; 0 empty-text rows;</text>
+<text x="80" y="614" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#222222">0 invalid-label rows; 0 exact texts crossing splits. Spam labels do not prove fraud.</text>
+</svg>
